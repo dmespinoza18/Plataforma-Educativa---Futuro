@@ -57,45 +57,35 @@ else:
 
     capitulos = obtener_capitulos(seleccionado)
     if capitulos:
-        cap = st.selectbox("Selecciona un capítulo o módulo:", capitulos)
-        texto = cargar_texto(seleccionado, cap)
+        cap_index = st.session_state.get("cap_index", 0)
+        cap = st.selectbox("Selecciona un capítulo o módulo:", capitulos, index=cap_index, key="cap_selector")
+
+        texto_completo = cargar_texto(seleccionado, cap)
 
         st.markdown(f"### 📖 Contenido de {cap.replace('_', ' ').title()}")
 
-        # Mostrar texto con scroll interno
-        if texto.strip():
-            st.markdown("#### 📄 Texto del capítulo:")
-            st.markdown(
-                f"""
-                <div style="
-                    height: 400px;
-                    overflow-y: scroll;
-                    border: 1px solid #ccc;
-                    padding: 1rem;
-                    border-radius: 8px;
-                    background-color: #fdfdfd;
-                    white-space: pre-wrap;
-                    font-family: sans-serif;
-                ">
-                {texto.replace('\n', '<br>')}
-                </div>
-                """,
-                unsafe_allow_html=True
-            )
+        if texto_completo.strip():
+            # PAGINACIÓN DEL TEXTO
+            paginas = [p.strip() for p in texto_completo.split('---')]
+            num_paginas = len(paginas)
+            pagina_actual = st.number_input("Página", min_value=1, max_value=num_paginas, value=1, step=1)
+
+            st.markdown("#### 📄 Página del capítulo:")
+            st.write(paginas[pagina_actual - 1])
+
+            # AUDIO
+            if st.button("🔊 Escuchar esta página"):
+                from gtts import gTTS
+                from tempfile import NamedTemporaryFile
+                with st.spinner("Generando audio..."):
+                    tts = gTTS(paginas[pagina_actual - 1], lang="es")
+                    with NamedTemporaryFile(delete=False, suffix=".mp3") as tmpfile:
+                        tts.save(tmpfile.name)
+                        st.audio(tmpfile.name, format="audio/mp3")
         else:
             st.warning("Este capítulo no tiene texto aún.")
 
-        # Botón de audio
-        if texto.strip() and st.button("🔊 Escuchar contenido"):
-            from gtts import gTTS
-            from tempfile import NamedTemporaryFile
-            with st.spinner("Generando audio..."):
-                tts = gTTS(texto, lang="es")
-                with NamedTemporaryFile(delete=False, suffix=".mp3") as tmpfile:
-                    tts.save(tmpfile.name)
-                    st.audio(tmpfile.name, format="audio/mp3")
-
-        # Mostrar quiz
+        # QUIZ
         quiz = cargar_quiz(seleccionado, cap)
         if quiz:
             st.markdown("### 🧠 Quiz del capítulo")
@@ -105,5 +95,12 @@ else:
                 if respuesta == opciones[0]:
                     score += 1
             st.success(f"Puntaje: {score}/{len(quiz)}")
+
+        # BOTÓN IR AL SIGUIENTE CAPÍTULO
+        cap_actual_idx = capitulos.index(cap)
+        if cap_actual_idx < len(capitulos) - 1:
+            if st.button("➡️ Ir al siguiente capítulo"):
+                st.session_state["cap_index"] = cap_actual_idx + 1
+                st.experimental_rerun()
     else:
         st.warning("Este curso aún no tiene capítulos.")
