@@ -59,9 +59,20 @@ else:
     if capitulos:
         cap = st.selectbox("Selecciona un capítulo o módulo:", capitulos)
         texto = cargar_texto(seleccionado, cap)
+        
         st.markdown(f"### 📖 Contenido de {cap.replace('_', ' ').title()}")
-        st.write(texto)
 
+        # CONTENEDOR CON SCROLL QUE INCLUYE AUDIO Y QUIZ
+        st.markdown(
+            f"""
+            <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 1rem; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 1rem;">
+                <p style="white-space: pre-wrap;">{texto}</p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+        # Botón de audio fuera del bloque HTML (por temas de funcionalidad)
         if st.button("🔊 Escuchar contenido"):
             from gtts import gTTS
             from tempfile import NamedTemporaryFile
@@ -71,6 +82,7 @@ else:
                     tts.save(tmpfile.name)
                     st.audio(tmpfile.name, format="audio/mp3")
 
+        # Cargar quiz si existe
         quiz = cargar_quiz(seleccionado, cap)
         if quiz:
             st.markdown("### 🧠 Quiz del capítulo")
