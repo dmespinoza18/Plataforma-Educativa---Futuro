@@ -1,0 +1,2276 @@
+Señales de tránsito
+
+80
+Las reglas del tránsito
+
+84
+La velocidad
+
+96
+Encuentros y adelantamientos
+
+98
+Estacionamiento y detención
+
+104
+Cruces ferroviarios
+
+126
+Las y los usuarios vulnerables
+
+
+
+68
+Niñas y niños en el automóvil
+
+73
+Conducción en
+circunstancias especiales
+
+109
+Conducción en la oscuridad
+
+109
+Conducción en con carga
+
+113
+Conducción en autopistas
+
+116
+Conducción en distintas
+condiciones climáticas
+
+
+
+120
+Conducción eficiente
+
+
+
+127
+Recomendaciones antes
+
+de partir tu viaje
+
+127
+Recomendaciones para aplicar
+durante tu trayecto
+
+130
+Seguridad
+
+134
+Informaciones importantes
+
+
+
+136
+Cómo comportarse en
+caso de siniestro
+
+136
+Disposiciones aplicables
+a los vehículos
+
+139
+Responsabilidad de la
+persona conductora
+
+
+
+140
+Recomendaciones para
+frenadas fuertes
+
+
+
+144
+Tránsito y medio ambiente
+
+146
+Conducción de un vehículo eléctrico      147
+1. Señales de tránsito verticales
+
+149
+2. 1. Glosario
+
+161
+2. 2. Referencias
+
+165
+3. Proceso de Obtención
+de Licencia de Conducir
+
+
+
+167
+
+Presentación
+El Libro para la Conducción en Chile es el documento oficial para for
+-
+mar a las y los nuevos conductores del país. Este fue elaborado, y es
+constantemente actualizado, por la Comisión Nacional de Seguridad
+de Tránsito, CONASET. Institución que trabaja en la prevención de si
+-
+niestros de tránsito y sus consecuencias,  junto con la coordinación de
+labores en materia de Seguridad Vial.
+Este manual tiene como objetivo instruir a las personas a la obtención
+de la Licencia de Conducir Clase B. Su lectura es fundamental para
+comprender, integrar y manejar conocimientos generales y especí
+-
+ficos de las normas de tránsito que rigen en Chile. Además, contiene
+la información necesaria para internalizar conductas responsables y
+seguras en el tránsito.
+La conducción de vehículos conlleva una alta responsabilidad, es
+importante estudiar los aspectos que integran la Seguridad Vial de
+todas y todos los ciudadanos. Aprender a compartir las vías, siempre
+prestar atención a las condiciones del tránsito, respetar los límites de
+velocidad, usar siempre el cinturón de seguridad en todos los asientos
+del vehículo y el traslado seguro en Sistemas de Retención Infantil de
+nuestros niños y niñas, son algunos de los aspectos claves para lograr
+bajar las tasas de siniestralidad.
+Te invitamos a leer, y sobretodo, comprender cada contenido de este
+libro, el que será constantemente actualizado en torno a la inclusión
+de nuevas leyes en pos de una conducción segura.
+Comisión Nacional de Seguridad de Tránsito
+.
+CONASET.
+2024
+
+Los siniestros
+de tránsito
+CAPÍTULO
+1
+
+6
+Antes de comenzar, debemos saber que es un error llamar a los accidentes de tránsito ﬁaccidentesﬂ. Se
+define accidente como: ﬁsuceso eventual del que involuntariamente resulta un dañoﬂ y se le asocia a un
+fenómeno casual e impredecible. Es por esta razón que hemos cambiado el concepto por
+siniestros
+, para
+relevar la importancia de sus efectos negativos y la responsabilidad de cada persona usuaria de las vías.
+Los siniestros de tránsito tienen poco de azarosos o de impredeci
+-
+bles. Se han estudiado las conductas y condiciones en que la persona
+conductora tiene más probabilidades de provocar un siniestro, por lo
+tanto, se puede trabajar en disminuir sus consecuencias perjudiciales.
+Si los siniestros de tránsito fueran ﬁaccidentalesﬂ, ¿cómo podríamos
+explicar por qué aumentan cuando llueve?, ¿por qué hay tantas per
+-
+sonas fallecidas por siniestros de tránsito durante las noches, cuando
+es el período con menor flujo de vehículos? o ¿por qué las personas
+que han bebido alcohol tienen más siniestros?
+Si un siniestro de tránsito fuera un suceso eventual, la probabilidad de sufrir un siniestro dependería sólo
+de la cantidad de tiempo que pasemos al volante, pero no es así.
+La conducción de un vehículo implica responsabilidad colectiva
+, pensemos ¿es acaso una ﬁdecisión
+personalﬂ el hecho de que una persona conduzca en estado de ebriedad o no use su cinturón de seguridad?
+No, pues si esta persona conductora sufre un siniestro nos afecta a todas y todos, ya que pagamos directa
+o indirectamente su decisión.
+¿Sabías que más de 3.000 personas fallecen cada día en el mundo como consecuencia de los siniestros de
+tránsito? Éstos son la primera causa de muerte en los jóvenes. Por lo anterior, organizaciones internacio
+-
+nales, como la Organización Mundial de la Salud (OMS), califican la situación de las personas involucradas
+en siniestros de tránsito como un problema prioritario de salud pública en todo el mundo.
+En Chile, al igual que en el resto del mundo, los siniestros de tránsito constituyen
+
+una de las principales
+causas de mortalidad
+. En la población infantil, entre 1 a 14 años, representa la primera causa de muerte
+y en la población joven, entre 15 y 29 años, la segunda causa de muerte después de los suicidios.
+En general, no existe consciencia sobre la magnitud del problema de los siniestros de tránsito en el mundo.
+Tampoco es posible cuantificar la cantidad de personas que, como resultado de un siniestro de tránsito,
+queda discapacitada de por vida y, sin embargo, aparecen en las cifras sólo como ﬁlesionadosﬂ.
+Los siniestros de tránsito
+La mayoría de las muertes
+producidas por los siniestros
+de tránsito podría haberse
+evitado. Para reducir la posi
+-
+bilidad de sufrir un siniestro
+de tránsito, debes evitar los
+factores de riesgo, detallados
+a lo largo de este libro.
+
+7
+Por otro lado, no se valora el sufrimiento que provoca una persona fallecida en su entorno cercano. Pero
+sí existen estudios que indican que, en promedio, por cada persona fallecida, unas 100 cercanas a ellas
+sufren dolor (familiares, amigos, etc.).
+Además de las pérdidas de vidas humanas, los siniestros de tránsito producen un enorme impacto eco
+-
+nómico que, directa o indirectamente asumimos todas y todos los ciudadanos. Se estima que en Chile los
+costos de los siniestros de tránsito alcanzan el 2% del PIB según las cifras de la OMS.
+Si este dinero fuera invertido en educación, vivienda, salud y/o ayudas sociales, imagina el beneficio que
+representaría para nuestra sociedad. Si sacas la cuenta, cada persona paga una media de poco más de 6
+millones de pesos anuales, sólo considerando los costos por los siniestros de tránsito posibles de valorizar.
+En el siguiente cuadro se enumeran los principales costos ocasionados por los siniestros. Hay que tener
+en cuenta que no todos ellos pueden ser valorizados monetariamente.
+Costos materiales
+Costos humanos
+Costos administrativos
+Costos de salud
+Daños a los vehículos y a su carga.
+Daños a la propiedad pública.
+Daños a la propiedad privada.
+Daños al medio ambiente.
+Pérdida de productividad (durante tratamiento y rehabilitación).
+Pérdida de productividad futura de personas fallecidas.
+Sufrimiento físico y psicológico de la persona lesionada.
+Sufrimiento físico y psicológico de familiares y amigos.
+Policía y bomberos.
+Gestión de seguros.
+Legales: Jueces, abogados, etc.
+adelantar en zonas no permitidas o el no respeto a otras señales de tránsito. Al no respetar una luz roja
+de un semáforo o un paso de peatones señalizado, no solo se está cometiendo una infracción a la Ley de
+Señales de tránsito
+Señales verticales
+Estas señales se emplean para indicar a las personas conductoras y peatones la forma correcta y segura
+de hacer uso de las vías. Para facilitar su lectura tienen símbolos, colores y formas diferentes. Estas se
+clasifican en grupos acorde a lo que informan. Hay señales que indican una prohibición o un mandato, otras
+advierten sobre peligros existentes y otras entregan información importante. A continuación, conoceremos
+los grupos de señales y puedes conocer más ejemplos de cada uno, en el Anexo 1 de la página 150.
+
+Señales reglamentarias:
+tienen por finalidad notificar a las personas usuarias de la vía acerca de prio
+-
+ridades, prohibiciones, restricciones, obligaciones y autorizaciones.
+Por lo general, estas señales tienen forma circular o rectangular, teniendo los símbolos y/o números inscritos
+dentro de un círculo u orla roja. Se exceptúan de lo anterior las señales PARE, Ceda el Paso, Fin Restricción,
+Paso Obligado, Permitido Virar Derecha con Luz Roja, Sólo Bicicletas, entre otras.
+Es importante destacar que la señal FIN RESTRICCIÓN pone término a la restricción mostrada al interior
+del círculo. En el ejemplo mostrado, corresponde a ﬁNo adelantarﬂ.
+
+81
+
+Señales de advertencia de peligro:
+tienen como propósito advertir la existencia de peligros o riesgos
+permanentes. Estas tienen forma de rombo, su color de fondo es amarillo y su símbolo es negro. Excepto
+la señal denominada Cruz de San Andrés.
+En algunos casos, existen señales, en particular las relacionadas con las y los usuarios más vulnerables,
+que pueden ser de un color amarillo distinto al resto, con una tonalidad levemente verde.
+Dado que todas estas señales advierten un peligro, debes evitar los adelantamientos una vez pasada la
+señal y tomar las precauciones del caso, ya sea reduciendo la velocidad o realizando las maniobras nece
+-
+sarias para tu seguridad y la de las demás personas.
+
+Señales informativas:
+tienen como propósito orientar y guiar a quienes conducen, para que puedan
+llegar a sus destinos de la manera más segura, simple y directa posible.
+Se clasifican en dos grupos: las que guían a tu destino y las que contienen otra información de interés,
+como servicios, atractivos turísticos y otros. Son de forma cuadrada o rectangular y, en general, de color
+azul en el caso de Autopistas y Autovías y de color verde en otro tipo de vía. Sin embargo, las que informan
+sobre atractivos turísticos también pueden ser de color café.
+
+Señales transitorias:
+Estas pueden corresponder al tipo preventivo o informativo y responden a la pre
+-
+sencia de riesgos o peligros de carácter no permanente derivados de la ejecución de trabajos en la vía.
+Son de color naranja, con la excepción de la primera señal que advierte sobre los trabajos, la que es de
+color amarillo.
+Recuerda moderar tu velocidad en zonas con trabajos y si es necesario, redúcela. La eventual presencia
+de personas trabajando, materiales como arena, piedras o ripio, incluso maquinaria, pueden ser un riesgo.
+
+82
+Las
+líneas longitudinales discontinuas
+(     ), de color blanco, pueden ir acompaña
+-
+das de tachas reflectantes de igual color. Puedes traspasar estas líneas y cambiar
+de pista advirtiendo previamente a las y los demás usuarios de la vía tu intención
+de hacerlo y siempre que ello no imponga riesgos a las demás personas.
+Las
+líneas longitudinales continuas
+(    ), pueden estar complementadas con ta
+-
+chas reflectantes de color rojo, e indican que no existen condiciones de seguridad
+para que pueda ser traspasada. Como, por ejemplo, insuficiente visibilidad antes
+de una curva o ante un cambio de rasante.
+En ocasiones, las líneas longitudinales pueden presentarse en
+forma mixta
+(   ),
+esto es, tanto en forma segmentada como continua. En estos casos, sólo puede ser
+traspasada por los vehículos que circulan por el lado en que esta es segmentada.
+Otro caso de importancia, es el de la línea longitudinal que indica el
+borde de
+calzada
+(    ) llamado
+berma
+. No debes circular por esta franja de seguridad late
+-
+ral. Solo en áreas rurales, en caso de emergencia, podrás traspasar esta línea para
+permanecer en la berma.
+La línea de borde de calzada también puede ser segmentada cuando hay un
+ensanchamiento de la calzada al llegar a un cruce, cuando se provee una zona
+de estacionamiento o cuando hay una pista de desaceleración o aceleración. Se
+distinguen por tener un patrón diferente al de las otras líneas discontinuas que
+delimitan las pistas de circulación, y en el caso de autopistas y autovías, por ser,
+además, en general más anchas (ver imagen en la página 118).
+Además, debes saber que en caminos de montaña donde la nieve es frecuente,
+tanto la demarcación del eje central como la de borde de calzada pueden ser de
+color amarillo (    ).
+Por otro lado, en áreas urbanas suele demarcarse al borde de la calzada o en la so
+-
+lera misma, una franja amarilla continua, con el propósito de señalar la prohibición
+de estacionar a lo largo de esta (    ).
+2
+3
+1
+Señales horizontales o demarcaciones
+Las demarcaciones (marcas viales) aclaran y fortalecen las normas. Es así como pueden servir de adver
+-
+tencia, para dividir la calzada o también para indicar prohibiciones. Estas constan de líneas longitudinales
+o transversales, flechas, símbolos, leyendas y otros. Conozcamos los tipos de marcas viales:
+
+Demarcaciones de pistas, de centro y bordes de calzada
+La línea longitudinal de color blanco que marca el eje de calzada y que separa los flujos vehiculares que
+circulan en sentidos opuestos puede ser continua o discontinua (segmentada).
+6
+5
+4
+1
+2
+3
+4
+5
+6
+
+83
+¡No lo olvides! En
+un paso de cebra,
+las y los peatones
+tienen prioridad.
+
+Demarcaciones en los cruces:
+En un cruce regulado con semáforo adquiere
+gran importancia la línea blanca trasversal a la calzada que determina la línea
+de detención antes de la cual deben detenerse los vehículos (   ). Además, son
+importantes las líneas blancas que señalan el paso de peatones y de ciclistas.
+
+
+Bajo ciertas condiciones (cruce semaforizado, ancho de la calzada) puede existir
+una zona entre la línea de detención y el paso de peatones que corresponde a la
+zona de espera especial para personas conductoras de ciclos y/o motocicletas (     ).
+Las líneas de detención pueden estar asociadas también a señales PARE o Ceda el
+Paso, así como a pasos peatonales y cruce de ciclovías.
+
+Demarcación paso de cebra:
+Los pasos peatonales en lugares no semaforizados,
+es decir, los pasos o cruces de cebra, se encuentran demarcados con franjas blancas
+paralelas al eje de la vía, precedidas por una línea de detención transversal (    ) y
+muchas veces, también, por líneas en zig-zag al borde de la calzada.
+En los pasos cebra y en los pasos peatonales en cruces semaforizados no demar
+-
+cados, siempre existe una línea de detención. Aunque esta no esté pintada, imagi
+-
+nariamente se ubica a no menos de un metro antes de éstos.
+
+Demarcación de no bloquear cruce:
+Algunas intersecciones pueden estar de
+-
+marcadas con líneas amarillas diagonales que forman cuadrados (     ). Estas marcas,
+que se utilizan en vías congestionadas, advierten a las personas conductoras que
+deben tomar todas las medidas del caso a fin de no quedar detenidas en la inter
+-
+sección. Las personas que enfrenten esta demarcación sólo pueden cruzar cuando
+en la salida del cruce exista espacio suficiente para no quedar detenido en él.
+
+Demarcación de símbolos y leyendas:
+Estas marcas indican a quienes conducen
+las maniobras permitidas y acciones que deben realizar, así como también advierten
+sobre peligros. En este grupo se encuentran las flechas que indican la o las direc
+-
+ciones a seguir o el deber de abandonar una pista, las señales Ceda el Paso, PARE
+y la leyenda LENTO (    ), entre otras.
+
+Otras demarcaciones:
+Entre estas se encuentran las líneas longitudinales que
+delimitan lugares de parada de buses, pistas para ciclistas y pistas prioritarias para
+vehículos de emergencia (   ), así como las áreas achuradas que posibilitan una
+mejor canalización de los flujos. No debes circular, menos aún estacionar, sobre
+estas áreas achuradas (    ).
+Si vas por una pista con estas marcas, abandona la pista tan pronto puedas hacerlo
+de manera segura.
+7
+7
+8
+8
+9
+10
+11
+12
+13
+11
+10
+9
+12
+13
+
+84
+Recuerda:
+El espacio requerido para virar por un vehículo de gran tamaño puede ex
+-
+ceder el ancho de una pista.
+Detente si estás en una situación como la mostrada en la imagen, o si estás
+detrás del camión, y espera a que finalice su maniobra.
+Las reglas del tránsito
+Además de las instrucciones que se expresan a través de Carabineros, semáforos o señalización, existen
+también otras reglas para regular la circulación de los vehículos por calles y caminos, y hacer que esta sea
+más segura. Estas reglas se describen en los capítulos y subcapítulos que siguen.
+La obligación de ceder el paso
+Los encuentros en cruces, en general, implican ciertos riesgos. Muchos siniestros de tránsito ocurren en
+estos lugares. Las razones son variadas: a veces, quien conduce no ha puesto atención al tránsito; otras,
+ha calculado mal la distancia y velocidad, y otras, ha estimado mal su propia capacidad de detenerse a
+tiempo. Para que el tránsito sea seguro en las intersecciones, existen reglas acerca de la prioridad al cruzar.
+
+Cuando te aproximes a un cruce sin semáforo, o a uno donde no haya un Carabinero regulando el tránsito,
+y este no tenga señales PARE o Ceda el Paso, siempre tienes que dar preferencia a los vehículos que se
+aproximan al cruce por la otra vía
+desde tu derecha
+.
+
+Al momento de virar no tienes preferencia
+: cuando tengas el propósito de virar, carecerás de toda pre
+-
+ferencia y deberás respetar el derecho preferente de paso que en tales circunstancias tengan los demás
+vehículos que circulen y las y los peatones en los cruces o pasos reglamentarios.
+
+Al incorporarte a una zona de tránsito en rotación Œrotonda o minirrotonda- ,
+debes ceder el paso a los
+vehículos que circulan por ella
+.
+Al
+enfrentar la señal PARE
+debes detener tu vehículo y
+permitir el paso de quienes
+circulan por la otra vía. Sólo
+podrás reanudar la marcha
+cuando no exista posibilidad
+alguna de siniestro.
+Al
+enfrentar una señal CEDA
+EL PASO
+, debes reducir la ve
+-
+locidad hasta detenerte si es
+necesario y ceder el paso a
+los vehículos que circulan por
+la otra vía y cuya proximidad
+constituya riesgo de siniestro.
+
+85
+
+En las áreas rurales, cuando te aproximes a una vía principal por una secundaria,
+debes ceder el paso a
+los vehículos que circulen por la vía principal
+.
+
+Cuando te aproximes a un cruce no semaforizado y tengas la obligación de ceder el paso, reduce tu velocidad
+con tiempo suficiente para detenerte cuando sea necesario.
+Tienes que mostrar claramente tu intención
+.
+
+Ten presente también, que ceder el paso significa que
+quien tiene la preferencia en el uso de la vía no
+debe verse en la obligación de modificar su trayectoria ni su velocidad
+a consecuencia de la acción
+de quien no tiene la prioridad.
+Otras obligaciones de ceder el paso:
+
+Al aproximarte a un paso de cebra en el que alguien se disponga a cruzar, debes detenerte y cederle el paso.
+
+Al incorporarte a la circulación desde una vía particular, desde un inmueble o un estacionamiento, debes
+ceder el paso a los vehículos en tránsito, incluidos los ciclistas, así como a las y los peatones.
+
+Al ponerte en marcha después de una detención, debes ceder el paso a los vehículos en tránsito y a las
+y los peatones.
+
+Al salirte de la circulación para ingresar a una vía particular, a un estacionamiento o un inmueble, care
+-
+cerás de todo derecho preferente de paso respecto de peatones y vehículos en tránsito.
+
+Cuando la pista por la que circulas se ve sorpresivamente obstaculizada, también carecerás de
+prioridad frente a los demás vehículos, para poder cambiarte de pista.
+Vehículos de emergencia:
+
+Ante la aproximación de un vehículo de emergencia (vehículos poli
+-
+ciales, carros bomba, ambulancias y pertenecientes a la Policía de Investigaciones) que hagan uso
+de sus señales luminosas y/o acústicas,
+deberás cederles el derecho a vía
+, ya sea desplazándote
+hacia un lado en la calzada y deteniéndote si es necesario hasta que haya pasado si
+ambos circulan en el mismo sentido, o bien cediéndoles el paso si se trata de un
+cruce. Si en estas circunstancias vas por una pista demarcada para vehículos
+de emergencia, abandónala tan pronto puedas hacerlo de manera segura.
+Signos y señales
+A veces, ya sea por desconocimiento o porque interpretamos mal las señales de otras personas, pueden
+presentarse malentendidos en el tránsito.
+Como persona conductora,
+tienes la obligación de hacer saber a quien conduce el vehículo que te sigue
+qué es lo que vas a hacer, para que sepa a qué atenerse
+. Sin embargo, el hecho de que hagas señales a
+tiempo no te libera de la obligación de tener precaución. Pon mucha atención a las señales de las demás
+personas e intenta interpretar sus intenciones.
+Si un vehículo hace señales con su intermitente izquierdo, significa que va a virar hacia la izquierda. Si
+interpretas mal la situación y crees que te está indicando que puedes pasarlo, puede ocurrir un siniestro.
+
+86
+Señaliza cuando vayas a po
+-
+nerte en movimiento desde el
+borde de la calzada.
+Señaliza con suficiente antici
+-
+pación cuando vayas a cambiar
+de pista de circulación y cuando
+vayas adelantar o sobrepasar.
+Señaliza cuando vayas a virar.
+Algunos casos:
+La señal debe darse con tiempo suficiente antes de iniciar la maniobra
+pensada, y debe ser visible e
+inequívoca. El que señalices no te libera de la posibilidad de un siniestro. Concentra tu atención en lo que
+estás haciendo y no dejes de tener consideración hacia las demás personas usuarias de las vías.
+Ante un cambio de pista, no comiences a señalizar hasta que no tengas seguridad de que podrás realizar
+la maniobra. Recuerda siempre la secuencia
+espejo Œ señalización Œ maniobra
+.
+Alternativamente, las maniobras de viraje y de cambio de pista pueden ser advertidas por quien conduce
+mediante
+señales realizadas con su brazo
+, de la siguiente manera:
+Brazo extendido
+horizontalmente indica
+viraje a la izquierda.
+Brazo en ángulo recto
+hacia arriba indica viraje
+a la derecha.
+Brazo extendido hacia
+abajo indica disminución
+de velocidad o detención.
+
+87
+Las luces de freno se encienden automá
+-
+ticamente cuando pisas el pedal de freno
+. A
+veces, puede resultar necesario avisar a quienes
+van detrás tuyo, pisando ligeramente el pedal
+de freno para que las luces se enciendan.
+Las luces intermitentes de emergencia
+advierten a las demás personas que tu ve
+-
+hículo se encuentra detenido
+. Úsalas cuando
+tu vehículo haya sufrido un desperfecto o haya
+una situación de riesgo.
+DEBES SABER:
+Las luces traseras blancas se encienden al
+retroceder
+.
+Sólo para prevenir un siniestro y siempre que
+su uso sea estrictamente necesario, puedes hacer
+uso de la
+bocina
+de tu vehículo.
+Nunca la utilices
+en un túnel, ni a la entrada o salida de este.
+Tampoco las uses cerca de personas ciclistas.
+Ni al adelantar o sobrepasar a animales
+.
+También recuerda que esta es la forma que tienen las personas ciclistas para advertir sus maniobras. Además,
+pueden indicar su viraje a la derecha con el brazo derecho extendido horizontalmente y complementar la
+advertencia con la utilización de un señalizador eléctrico adosado al cuerpo.
+La ubicación del vehículo
+El mantenerte a una distancia suficiente de quienes marchan adelante tuyo y el situar bien tu vehículo
+antes de virar, también son una forma de comunicación entre las personas usuarias de las vías.
+Las pistas están diseñadas con el espacio necesario para conducir un vehículo de cuatro ruedas, si bien
+pueden existir casos donde estas no estén demarcadas, siempre contarán con el espacio necesario para
+circular.
+En ocasiones, el eje de calzada puede no estar demarcado. En este caso,
+la división de la calzada es en
+dos partes iguales
+y siempre debes circular por la derecha.
+Distancia a los vehículos que van delante
+Saber cuál es la distancia correcta con respecto al vehículo que va adelante puede resultar difícil. Una regla
+aplicable siempre en carreteras
+dice que se debe mantener una distancia medida en metros equivalente
+a lo que el velocímetro te indica en kilómetros. Por ejemplo, si circulas a 80 km/h debes mantenerte a una
+distancia de unos 80 metros respecto del vehículo que va delante. En el tránsito urbano, dicha distancia
+puede reducirse a la mitad.
+Mantener una distancia muy corta aumenta los riesgos de siniestro, siendo uno de los factores que con
+mayor frecuencia contribuye a éstos. La visibilidad hacia adelante se ve reducida, dificultando los adelan
+-
+tamientos. La conducción se hace irregular y poco económica.
+
+88
+1001
+1002
+1003
+Otra regla
+aplicable en carreteras
+que te permite saber si marchas a una distancia adecuada del vehículo
+que va delante, es la denominada ﬁ
+Regla de los Tres Segundos
+ﬂ: Para usarla, fija tu mirada en un punto,
+por ejemplo, un árbol. Tan pronto el vehículo que circula adelante pase el árbol, comienza a contar... mil
+uno, mil dos, mil tres. Si pasas el árbol antes de haber contado mil tres significa que la distancia que estás
+guardando es muy corta. Disminuye la presión sobre el acelerador.
+Cuando descubras que un vehículo que va adelante tuyo ha comenzado a frenar, transcurrirá aproximada
+-
+mente un segundo antes de que tú empieces a frenar.
+En este tiempo recorrerás alrededor de 15 metros si vas a 50 km/h, de 20 metros si vas a 70 km/h y 25
+metros si vas a 90 km/h.
+Por lo general, los choques en serie se deben a que las personas conductoras guardan una distancia de
+-
+masiado corta respecto de los vehículos que van delante, lo que no les permite frenar a tiempo.
+Varía la distancia que mantienes respecto del
+vehículo que va adelante según la velocidad y
+estado del pavimento.
+En caso de congestión vehicular, cuando las
+distancias disminuyen y los riesgos de choques
+y colisiones aumentan, pon mayor atención y
+prepárate para poder actuar a tiempo.
+PARA REDUCIR LOS RIESGOS DE COLISIÓN:
+Mantén una distancia adecuada de los ve
+-
+hículos que van adelante. En carreteras, usa la
+ﬁRegla de los Tres Segundosﬂ.
+Como persona conductora, debes permanecer
+atenta al tránsito y estar preparada para frenar:
+cambia el pie desde el pedal del acelerador al
+del freno y mantenlo listo para utilizarlo.
+Agrega un tiempo extra si las condiciones climáticas o de la carretera son adversas.
+
+89
+Sobre esta materia, la ley señala que cuando dos o más vehículos circulan en un mismo sentido por la
+derecha, cada persona conductora debe mantener, respecto del vehículo que le antecede, una distancia
+suficiente para que cualquier otro pueda adelantarlo, ingresando sin peligro en dicho espacio. La misma
+ley exime de tal disposición sólo a los vehículos que marchan en caravana en un cortejo fúnebre.
+Aumenta tu distancia si en la ciudad vas circulando detrás de un vehículo con patente extranjera. Quien
+conduce el vehículo podría desconocer el lugar y frenar sorpresivamente para leer el nombre de una calle,
+pasar por alto una señal o virar inesperadamente.
+Distancia lateral
+Los cruces con vehículos y los adelantamientos implican siempre riesgos. El riesgo es mayor cuando la
+visibilidad es reducida, como en curvas, en cambios de rasantes, en la oscuridad y cuando hay niebla. Por
+ello, ubica tu vehículo de forma segura en la pista, por posibles adelantamientos y cruces con otros.
+Cuando circules por una carretera de una pista por sentido, mantente
+lo más cerca posible del borde derecho de la calzada. Otras perso
+-
+nas conductoras pueden equivocarse al hacer sus maniobras, como
+se muestra en la imagen. Tanto los vehículos que vienen en sentido
+contrario como los que vienen detrás tuyo pueden adelantar en una
+ocasión no adecuada.
+Recuerda que para adelantar debes hacerlo por la izquierda.
+Cuando hay vehículos estacionados
+Deja un espacio suficiente,
+equivalente al ancho de una puerta
+, al pasar cerca de vehículos estacionados.
+Alguien podría intentar bajar a la calzada repentinamente, o un vehículo abandonar el estacionamiento
+sin previo aviso.
+Reduce tu velocidad y presta atención a peatones que puedan aparecer entre los vehículos con la intención
+de cruzar.
+
+90
+Uso correcto de las pistas de circulación
+Sitúate completamente dentro de una pista, a fin de no obstaculizar el tránsito por la otra. Circula siempre
+por la mitad derecha de la calzada.
+En ocasiones,
+puedes circular por la pista izquierda cuando:
+
+Requieras traspasar el eje de la calzada para adelantar a otro vehículo.
+
+El tránsito por la mitad derecha de la calzada esté impedido por trabajos u otros siniestros que alteren
+la circulación normal.
+
+En el tránsito urbano, la calzada tenga demarcadas tres o más pistas de circulación en un mismo sentido.
+
+En el tránsito urbano, la calzada esté señalizada para la circulación en un solo sentido.
+
+Te encuentres en autopistas y carreteras. De todas formas, te recomendamos circular por la pista derecha
+y dejar libre la o las de la izquierda para quienes deseen sobrepasarte.
+No olvides respetar la señalización que designa pistas destinadas a encauzar la circulación en determinada
+dirección o sentido, así como también la que reserva pista para el tránsito de alta o baja velocidad.
+Cambios de pista de circulación
+Como se señaló anteriormente, en ciertos casos podrás ubicar tu
+vehículo en cualquiera de las pistas de circulación. Podrás cam
+-
+biarte a la pista adyacente siempre y cuando puedas hacerlo en
+forma segura y sin obstaculizar innecesariamente a las demás
+personas, pero no podrás pasar hacia aquella pista para ingresar
+de forma inmediata a una tercera.
+Las flechas en la calzada te indican que
+debes abandonar la pista de aceleración
+e incorporarte al resto del tránsito.
+Las señales de tránsito informativas colocadas en altura sobre la
+calzada facilitan la selección de la pista correcta.
+
+91
+Virajes
+Pasos a seguir para realizar un viraje a la derecha:
+1.
+Ubícate tan cerca como sea posible del borde derecho de la calzada, a menos que exista una ciclovía, en
+cuyo caso debes posicionarte los más cerca del elemento segregador.
+2.
+Asegúrate que no estén transitando ciclos.
+3.
+Gira tan cerca como sea posible de la cuneta de la mano derecha, del borde de la calzada, o del costado
+del elemento segregador de la ciclovía.
+4.
+Luego de haber virado, elige la ubicación más conveniente para continuar.
+Verificar a través del espejo retrovisor, de los
+espejos laterales y mirando por encima de tu
+hombro que no vienen vehículos que te impidan
+el cambio.
+Advierte tu intención de cambiar de pista me
+-
+diante el brazo o accionando los dispositivos
+luminosos del vehículo con anticipación suficiente.
+AL CAMBIARTE DE PISTA DEBES:
+Ayuda a quienes intenten cambiar de pista.
+Evita los cambios de pista sin necesidad (cada
+desplazamiento implica siempre un riesgo).
+Mirar a larga distancia hacia adelante y hacia
+atrás.
+No olvides que:
+
+Debes señalizar tu intención de virar con una anticipación suficiente:
+a lo menos 30 metros antes
+.
+
+Posicionarte correctamente facilitará tu maniobra y el paso de las
+demás personas usuarias.
+
+Al ubicarte correctamente mostrarás a las demás personas conduc
+-
+toras la trayectoria que vas a seguir.
+
+Asegúrate a través de tus espejos retrovisores que no vengan ciclistas.
+
+Debes ceder el paso a las y los peatones que estén cruzando por un
+paso peatonal.
+
+También debes planear pronto tu ubicación correcta después de
+haber virado.
+
+Debes apagar el señalizador una vez finalizado el viraje.
+30 mts
+
+92
+Recuerda que tus preparativos para efectuar un viraje tienen que comenzar con anticipación, de modo que
+las demás personas no se sorprendan con la maniobra que has pensado hacer. La distancia con que debas
+señalizar tu maniobra dependerá de la velocidad en cada ocasión. En una carretera donde la velocidad
+máxima permitida sea 100 km/h puede tratarse de unos 300 a 400 metros.
+1
+2
+3
+Viraje a la izquierda
+Mucho antes de virar a la izquierda usa los espejos para asegurarte de
+conocer la posición y el movimiento del tráfico que viene detrás tuyo.
+Señaliza tu intención de virar a lo menos con 30 metros de anticipación
+y fíjate en las y los peatones.
+Para virar desde una vía de doble tránsito, aproxímate en forma segura al
+costado derecho del eje o de la línea central de la vía por la cual circulas
+(      , 2 ). Como es muy difícil juzgar la velocidad de los vehículos que vienen
+en sentido contrario, si no sientes seguridad de alcanzar a virar adecúa
+tu velocidad o detente, y continúa luego de dejarlos pasar. Si te ves en la
+obligación de detenerte, hazlo unos metros antes de la intersección con
+tus ruedas delanteras orientadas hacia adelante.
+Si te chocaran por atrás ( 3 ) y tuvieras tus ruedas torcidas a la izquierda,
+serías lanzado hacia la pista que viene en sentido contrario, lo que podría
+dar origen a una colisión frontal. No te sitúes en forma oblicua. Ingresa a
+la intersección cuando dispongas del espacio y tiempo suficiente y luego
+entra a la otra vía tomando el lado derecho de su eje o de la línea central
+si la vía es bidireccional, o la pista de tu izquierda si la vía fuese de un
+único sentido de tránsito.
+Antes de efectuar un viraje a la izquierda es especialmente importante
+concentrar tu atención en el tránsito que viene tanto en sentido contrario
+como por detrás. Si te encuentras con objetos o vehículos que dificulten
+tu visión, debes detenerte y luego avanzar lentamente hasta que tengas
+una visión plena.
+Debes ceder el paso a quienes transitan en sentido contrario y no obsta
+-
+culizar innecesariamente a los vehículos que se acercan por detrás tuyo.
+1
+2
+3
+
+93
+Pon especial atención cuando vayas a efectuar un giro a la izquierda y te encuentres con que otro vehículo
+que viene en sentido contrario hará lo mismo. Trata de mantener contacto con los ojos de la otra persona
+conductora y de ver detrás de tu vehículo para descubrir si quienes te siguen van a continuar hacia adelante.
+A
+B
+A)
+Esta es la manera
+más fácil de cómo
+dos vehículos que
+se cruzan viran a
+la izquierda al
+mismo tiempo.
+B)
+Esta es otra forma
+permitida de virar,
+pero que se utiliza
+muy raras veces.
+Para hacer el tránsito
+más seguro suelen
+prohibirse virajes a la
+izquierda, sugirién
+-
+dose ruteos como
+muestra la imagen.
+Hay ocasiones en las que debes renunciar a efectuar un viraje a la
+izquierda. El abstenerse de virar a la izquierda no sólo es conve
+-
+niente cuando hay un cambio de rasante, sino que también cuando
+la vía hacia la cual deseas virar se encuentra cerca de una curva
+con escasa visibilidad. Cuenta siempre con la posibilidad de que
+haya una persona oculta, que pueda aparecer sorpresivamente.
+Como muestra la imagen, para virar desde una vía unidireccional
+hacia otra de doble tránsito, ingresa a la intersección cuando
+puedas hacerlo de forma segura, y luego, una vez pasada esta,
+toma el costado derecho del eje o línea central de la vía de
+doble tránsito.
+Una gran cantidad de los siniestros que se producen cuando un vehículo va a virar a la izquierda
+corresponden a choques por atrás.
+
+94
+Viraje en ﬁUﬂ
+Se denomina viraje en ﬁUﬂ a aquella maniobra mediante la cual el vehí
+-
+culo vira en 180º, tomando la dirección contraria a la cual venía. Estos
+virajes pueden realizarse en vías de doble tránsito cuando no existe
+línea de centro de calzada continua, así como en avenidas provistas de
+bandejones centrales, siempre que ello no esté expresamente prohibido.
+Actúa con cautela antes de iniciar un viraje en ﬁUﬂ. Usa los espejos para
+conocer la posición de quienes vienen detrás tuyo y señaliza. Asegúrate
+de tener visibilidad y espacio suficiente.
+Varias pistas en la misma dirección
+Cuando existan varias pistas en una misma dirección elije a tiempo la
+pista correcta: elije la derecha para virar a la derecha y la izquierda para
+virar a la izquierda. Elige la pista que más te convenga cuando vas a
+continuar derecho.
+Rotondas
+Al acercarte a una rotonda, decide lo antes posible cuál es la salida que
+necesitarás, para así ingresar por la pista correcta. Reduce tu velocidad.
+Al llegar a la rotonda, tienes la obligación de ceder el paso a los vehículos
+que circulan en ella.
+Cuando circules por la rotonda, señaliza a la derecha tan pronto hayas
+pasado la salida inmediatamente anterior a la que utilizarás.
+En las intersecciones de calles y caminos.
+En los pasos para peatones.
+A menos de 200 m de una curva, cima o gradiente, cruce ferroviario, puente, túnel y viaducto.
+Donde la señalización o demarcación lo prohíba.
+NO DEBES VIRAR EN ﬁUﬂ:
+
+95
+Pistas especiales
+Pistas reservadas para el transporte público
+En algunas ciudades y sectores de ellas suele privilegiarse a los servicios
+de locomoción colectiva, asignándoles pistas de circulación exclusivas.
+No ingreses a ellas a menos que se encuentre permitido en lugares de
+-
+terminados en los que dicha segregación es con línea discontinua y sea
+estrictamente necesario para poder virar.
+Pistas especiales para ciclistas
+En algunos lugares pueden existir ciclovías. Estas no pueden ser utilizadas
+por otros vehículos, aun cuando en algunos casos están delimitadas sólo
+con demarcación al borde de la calzada.
+Pistas o vías con tránsito reversible
+Estas pistas o vías, son utilizadas a lo largo del día con sentidos de tránsito
+diferentes. Por ejemplo, durante la mañana el sentido del tránsito puede
+ser de norte a sur, en tanto que en otros horarios los vehículos pueden
+circular por ellas sólo de sur a norte.
+Vías de uso exclusivo
+Con el propósito de favorecer al transporte público de pasajeros, también
+suelen destinarse vías exclusivas para éstos durante la horas de mayor
+flujo vehicular.
+No circules por estas vías en los horarios en que no te esté permitido.
+Pistas de emergencia
+Estas pistas se suelen habilitar en vías con pendiente muy pronunciada
+para el caso de emergencias derivadas de la falla del sistema de frenos
+de un vehículo.
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+
+96
+La velocidad
+Es fácil acostumbrarse a las velocidades altas y dejarse cegar por ellas.
+Luego de un rato de conducción por una autopista, la velocidad se siente
+agradable, y no te das cuenta de lo rápido que vas hasta que al tomar
+una salida aparecen las señales de limitación a 50 km/h. Entonces es fácil
+dudar del velocímetro o medidor de velocidad. Cuando se ha frenado
+hasta 50 km/h, tendrás la falsa sensación de que el vehículo está casi detenido. Por eso es importante que
+recuerdes que el velocímetro se equivoca muy raras veces y que, en cambio, es muy fácil dejarse engañar
+y cegarse por la velocidad.
+Cuando vas a detenerte es cuando notas la velocidad. A 50 km/h se necesitan unos 25 metros para detenerse
+si el pavimento es bueno y está seco. Si aumentas la velocidad a 100 km/h, requerirás unos 80 metros. Esta
+distancia de detención, es la que debes tener presente cuando aumentes la velocidad.
+Los límites de velocidad
+Si todas las personas respetaran los límites de velocidad se salvarían muchas vidas. Dicha velocidad debe ser
+siempre razonable y prudente, esto es, nunca superior a la que puedes mantener el control de tu vehículo
+y detenerlo dentro de una distancia que esté al alcance de tu vista, ante cualquier obstáculo o imprevisto.
+Las velocidades máximas permitidas varían según se trate de un área urbana o rural, así como también
+según el tipo de vehículo.
+En zonas urbanas, la velocidad máxima permitida es de 50 km/h
+.
+En zonas no urbanas, y cuando la calzada tiene sólo una pista por sentido, la velocidad máxima permitida a
+los vehículos livianos es de 100 km/h. Cuando hay 2 o más pistas en un mismo sentido, este límite aumenta
+a 120 km/h. En todo caso, los buses, camiones y vehículos de transporte escolar no deben circular a más
+de 90 km/h ni los buses interurbanos a más de 100 km/h.
+No obstante, la autoridad puede modificar los límites antes indicados en determinadas vías instalando
+las señales correspondientes.
+Situaciones donde se debe reducir obligatoriamente la velocidad por el mayor riesgo de siniestros:
+
+En zonas densamente pobladas.
+
+Cuando la visibilidad esté reducida por mal tiempo o escasa iluminación.
+
+Al aproximarse o ingresar a una curva.
+
+Al aproximarse a la cima de una cuesta.
+
+Al conducir por un camino angosto o sinuoso.
+
+Cuando exista riesgo de encandilamiento por cambios de iluminación o al cruzarse con otro vehículo en
+una carretera estrecha.
+
+Cuando el pavimento esté resbaladizo.
+Recuerda que a medida que
+aumenta la velocidad, se
+reduce el campo visual de
+quien conduce.
+
+97
+
+Cuando te acerques a un vehículo de locomoción colectiva o de transporte de escolares que se haya
+detenido para tomar o dejar pasajeros. En este último caso, debes detenerte si es necesario.
+
+Cuando te aproximes a niñas y/o niños que estén en la calzada o cerca de ella y, en especial, cuando te
+acerques a plazas o juegos infantiles.
+
+Debes reducir tu velocidad a no más de 30 km/h cuando circules por las afueras de un colegio durante
+las horas de entrada y salida de clases.
+
+Cuando te acerques a animales que caminan por la carretera o camino.
+
+Al pasar por un lugar en el que se estén llevando a cabo trabajos en la vía.
+
+Al pasar por un lugar en el que se haya producido un siniestro.
+
+Debes reducir tu velocidad a lo indicado en las señales mientras estés en una Zona de Tránsito Calmado.
+Conduces con precaución.
+Te muestras con desconfianza.
+Mantienes una buena distancia de seguridad.
+LA CONDUCCIÓN A LA DEFENSIVA SIGNIFICA QUE:
+Planificas con tiempo.
+Frenas a tiempo.
+Miras primero y conduces después.
+Algunas otras reglas sobre la velocidad
+Una velocidad adecuada significa que, en situaciones arriesgadas, vas lo suficientemente lento como para
+poder dar preferencia a otras personas, aunque las normas no te lo exijan.
+Cuando tengas la obligación de ceder el paso, reduce tu velocidad con tiempo, hasta detenerte si fuera
+necesario, para que las demás personas comprendan claramente que vas a darles la preferencia.
+Y no olvides que debes adaptar tu velocidad a las condiciones del pavimento, al clima, a la visibilidad, al
+estado del vehículo, a su carga y a la intensidad del tráfico. Reduce la velocidad ante la visibilidad cam
+-
+biante por la luz y sombra en una calle arbolada en un día soleado. Esta condición dificulta la percepción
+de otras personas usuarias de la vía así como el cálculo de distancias.
+Peligros ocultos
+Tienes que poder detenerte ante cualquier obstáculo imaginable. Como persona conductora, cuenta siempre
+con que puede haber alguien o algo detrás de un auto estacionado, detrás de un arbusto, o después de la
+próxima curva. Esta es una capacidad que hay que entrenar.
+Nuestras limitaciones
+No debes conducir nunca a una velocidad tal que te impida controlar tu vehículo. Gran parte de las per
+-
+sonas conductoras creen ser mucho más hábiles de lo que son en realidad y, por lo tanto, conducen a una
+
+98
+velocidad mayor que aquella que su capacidad les permite. Muchos siniestros en carretera ocurren en
+solitario, esto es, sin que haya participación de algún otro vehículo o peatón.
+El vehículo
+La conducción varía de un automóvil a otro, por eso es importante que conduzcas con calma un vehículo
+prestado o arrendado que no conozcas bien.
+La carretera
+Tienes que adaptar tu velocidad a las condiciones y aspecto de la carretera. En un camino de ripio o grava, la
+distancia de frenado es significativamente mayor que en una carretera asfaltada. El asfalto mojado es más
+resbaladizo que el seco. Mira lo más adelante que puedas, para ver con anticipación las curvas u otros peligros
+y poder disminuir tu velocidad con tiempo. Conduce con máxima atención para lograr visualizar los peligros.
+Disminuye tu velocidad antes de llegar a una curva. Una vez que estés en ella no dejes que el vehículo
+marche por su propia inercia. Acelera gradualmente para retomar la velocidad al salir de la curva.
+Encuentros y adelantamientos
+Encuentros
+Los riesgos de siniestro al encontrarte o cruzarte
+con otro vehículo son mayores en la medida en que
+la carretera o calle sea más angosta. Como vimos
+anteriormente, es difícil calcular la distancia a la cual
+se encuentra el que viene en sentido contrario, y se
+tiende a creer que el cruce tendrá lugar más allá de
+donde en realidad se produce.
+Con frecuencia, erróneamente se estima que el cruce
+se producirá en la mitad de la distancia entre ambos
+vehículos, lo que será cierto sólo cuando los dos
+vehículos circulen a igual velocidad (ver imagen).
+Mientras mayor sea tu velocidad, menor será el tiempo que tendrás para hacer el juicio correcto,
+tomar la decisión acertada y reaccionar.
+Si dos vehículos circulan en sentido contrario, éstos se aproximan a una velocidad igual a la suma
+de las velocidades de cada uno.
+PE:
+Punto estimado para el cruce.
+PR:
+Punto real del cruce.
+90 km/h
+100 km/h
+
+99
+Peligros del encuentro
+Desconfía siempre de los vehículos que vienen en sentido contrario: pueden efec
+-
+tuar una maniobra inesperada e invadir el lado de la calzada por el que circulas.
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+Un vehículo que viene en una fila en sentido contrario puede salirse de ella para
+adelantar a otros vehículos.
+Medida: mantente a tu derecha y reduce la velocidad.
+Una experiencia que puede resultar desagradable es aquella en la que un vehículo
+que viene en sentido contrario lo haga por el lado de la calzada destinada a tu circula
+-
+ción.
+Medida: frena enérgicamente, haz señales con las luces y bocina.
+Por último,
+trata de moverte por la derecha. Nunca te pases para el lado izquierdo: la persona
+conductora puede percatarse de su acción equivocada y volver a su lado derecho.
+Encuentro con un vehículo de gran tamaño al aproximarte a la cima de una cuesta.
+La persona conductora que viene detrás de él puede ser muy temeraria e intentar
+efectuar un adelantamiento antes del cambio de rasante.
+Medida: mantente alerta
+para correrte a la derecha y reduce tu velocidad.
+La persona conductora que viene en sentido contrario puede haberse dormido
+al volante.
+Medida: nunca conduzcas demasiado cerca del eje de calzada.
+El vehículo que viene en sentido contrario puede patinar.
+Medida: Cuando
+el pavimento esté resbaladizo y vayas a cruzarte con un vehículo, reduce la
+velocidad, aléjate del centro de la calzada y no frenes dejándote llevar por el
+pánico
+. En último caso, sal de la carretera hacia la derecha.
+Encuentro repentino con un camión en un camino estrecho y sinuoso.
+Medida:
+reduce la velocidad y, con calma, dirige tu vehículo hacia la derecha.
+En la
+mayoría de los casos el cruce es posible. No frenes bruscamente dejándote llevar
+por el pánico.
+Sugerencias y consejos
+Los vehículos que vienen en sentido contrario constituyen siempre un peligro. Mientras más cerca del
+centro de la calzada conduzcas, mayor será el riesgo al cruzarse. Por lo tanto, mantente tan cerca del
+borde derecho como sea posible.
+No mires al vehículo que viene en sentido contrario. Trata de mirar mucho más adelante a lo largo del
+borde derecho de la calzada.
+En vías estrechas las distancias laterales respecto de los vehículos que vienen en contra y peatones son
+menores. Reduce los riesgos de siniestro conduciendo a velocidad más baja.
+En algunas ocasiones puede haber obstáculos fijos en la calzada, por ejemplo, cuando se están realizando
+
+100
+trabajos en la vía o un vehículo se ha detenido por emergencia. Como regla general en estos casos,
+quien
+tenga obstáculos por su lado deberá dejar pasar a quien viene en sentido contrario
+, a menos que, tra
+-
+tándose de trabajos en la vía, exista algún sistema especial de control de tráfico para regular el paso de
+vehículos por el área, como ejemplo, la presencia de un banderero.
+Adelantamientos
+La situación que ves en la imagen ocurre con
+frecuencia en nuestras vías. Hay muchas per
+-
+sonas conductoras imprudentes al adelantar
+o que juzgan mal las distancias, lo que puede
+derivar en una colisión o en que alguien deba
+salirse de la calzada.
+Pensar que el mantener la velocidad máxima permitida reporta una ganancia de tiempo muy significativa
+es un gran error, que además crea estrés y una prisa innecesaria.
+Observa el siguiente cuadro, que muestra el tiempo que se ganas al aumentar tu velocidad y compara esa
+ganancia con la pérdida de seguridad.
+Ejemplo: si conduces a 60 km/h y aumentas tu velocidad a 80 km/h, en diez kilómetros habrás ganado 2
+minutos y 30 segundos.
+SI
+
+CONDUCES
+
+A
+:
+Y
+
+AUMENTAS
+
+TU
+
+VELOCIDAD
+
+A
+:
+
+(
+KM
+/
+H
+)
+3:00
+-
+-
+-
+-
+-
+-
+-
+-
+8:20
+5:20
+3:20
+1:54
+0:50
+-
+-
+-
+-
+6:26
+3:26
+1:26
+-
+-
+-
+-
+-
+-
+9:33
+6:33
+4:33
+3:07
+2:03
+1:13
+0:33
+-
+-
+5:00
+2:00
+-
+-
+-
+-
+-
+-
+-
+9:00
+6:00
+4:00
+2:34
+1:30
+0:40
+-
+-
+-
+7:30
+4:30
+2:30
+1:04
+-
+-
+-
+-
+-
+10:00
+7:00
+5:00
+3:34
+2:30
+1:40
+1:00
+0:27
+-
+10:23
+7:23
+5:23
+3:57
+2:53
+2:03
+1:23
+0:50
+0:23
+50
+60
+70
+80
+90
+100
+110
+120
+130
+40 km/h
+50 km/h
+60 km/h
+70 km/h
+80 km/h
+90 km/h
+40 km/h
+100 km/h
+120 km/h
+Lo que ganas en minutos y segundos cada 10 kilómetros:
+Cuando pienses en adelantar a otro vehículo, y para ello requieras traspasar el eje de la calzada,
+hazte
+siempre las siguientes preguntas:
+
+¿Qué gano con adelantar?
+
+101
+350 mts
+90 km/h
+90 km/h
+
+¿Qué espacio libre tengo hacia adelante?
+
+¿Qué distancia de adelantamiento necesito?
+
+¿A qué velocidad circula el vehículo que va adelante?
+
+¿Con cuánta rapidez puedo acelerar?
+
+¿A qué velocidad puedo hacer el adelantamiento?
+Siempre que un vehículo venga en sentido contrario, piensa que lo hace a mayor velocidad que la que
+crees, y no cuentes con recibir ayuda del vehículo al que vas a adelantar; este puede aumentar su velocidad.
+Analicemos el caso de la siguiente imagen: supón que circulas a 90 km/h y que vas a adelantar al vehículo
+que te precede. De pronto, a 350 metros de distancia aparece un vehículo que viene en sentido contrario
+y que también marcha a 90 km/h. El adelantamiento tarda 8 segundos. En ese tiempo, tú y el vehículo que
+viene en contra recorren cada uno 200 metros; el vehículo adelantado recorre 160 metros.
+El siniestro
+es un hecho.
+Cuando vayas a adelantar:
+
+Mira lejos hacia adelante y prepárate.
+
+Mira los espejos retrovisores y hacia atrás sobre tu hombro para verificar que nadie haya empezado a
+adelantarte. Si la persona de atrás ya comenzó la maniobra, debes esperar hasta que esta termine.
+
+Señaliza antes de cambiar de pista.
+
+Desplázate pronto a la pista de la izquierda, para alcanzar una buena diferencia de velocidad respecto
+del vehículo a adelantar.
+
+Asegúrate de que el vehículo que vas a adelantar no tenga obstáculos delante.
+
+Mira lejos hacia adelante. No olvides que un vehículo puede aparecer por una vía lateral.
+Cuando vayas a adelantar a un vehículo de gran tamaño, mantén suficiente espacio detrás de él
+para tener una mejor visión hacia adelante sobre la vía. Ten presente que adelantar un vehículo
+largo es más arriesgado.
+
+102
+Durante el adelantamiento:
+
+Trata de adelantar rápidamente sin sobrepasar el límite de velocidad máxima permitida.
+
+Mantén una distancia lateral suficiente con respecto al vehículo adelantado.
+
+Si aparece un vehículo en sentido contrario o sientes inseguridad, interrumpe el adelantamiento en lugar
+de hacerlo sin certeza.
+
+No mires al vehículo que estás adelantando. Siempre hay un riesgo de guiar el vehículo hacia él si lo miras.
+
+Señaliza tu intención de regresar a la pista de la derecha.
+Al finalizar el adelantamiento:
+
+Vuelve hacia tu derecha una vez que veas en tu espejo retrovisor interior al vehículo adelantado y parte de la
+calzada adelante de él. Recuerda que debes mantener el señalizador prendido hasta que finalices la maniobra.
+
+Ya en la pista de la derecha, apaga tus señalizadores.
+
+Vuelve a la velocidad normal.
+Cuando te adelanten:
+
+Facilita el adelantamiento manteniéndote lo más a la derecha posible.
+
+No aumentes tu velocidad.
+
+En caso de peligro haz todo lo que puedas para ayudar a quien te adelanta. Disminuye tu velocidad y
+desplázate lo más que puedas a la derecha.
+
+103
+Las reglas sobre el adelantamiento
+Los adelantamientos
+deben efectuarse siempre por la izquierda
+.
+No debes adelantar a otros vehículos traspasando para ello el eje o línea central de
+la calzada cuando:
+
+No dispongas de un espacio libre hacia delante, que te permita efectuar la maniobra
+con seguridad y sin interferir con vehículos que se aproximan en sentido contrario.
+
+Circules por un puente, viaducto, túnel o cruce ferroviario o al aproximarte a cualquiera
+de estos lugares desde una distancia mínima de 200 metros.
+
+La señalización o demarcaciones lo prohíban.
+
+Te aproximes a la cima de una cuesta o gradiente, o a una curva.
+
+Te aproximes a un cruce, o en el cruce mismo, o en un paso para peatones, a menos que estén regulados
+por un semáforo. No adelantes en estos casos, incluso si para ello no necesites traspasar el eje de calzada.
+
+La persona conductora del vehículo que va adelante tuyo haya señalizado que piensa adelantar o des
+-
+plazarse hacia la izquierda.
+
+Un vehículo que marcha detrás tuyo haya iniciado un adelantamiento.
+Excepciones a las reglas del adelantamiento
+Solo puedes adelantar a un vehículo por la derecha en las siguientes dos situaciones:
+
+Cuando el vehículo alcanzado esté realizando o esté a punto de efectuar un viraje a la izquierda.
+
+Cuando circules por una vía urbana con tres o más pistas de circulación con un mismo sentido del tránsito.
+Las normas vigentes distinguen estos adelantamientos de aquellos que
+se realizan traspasando el eje de calzada, denominándolos
+maniobras de
+sobrepaso
+. Así, se entiende que sobrepasas a otro vehículo cuando te sitúas
+adelante de él sin invadir la pista del sentido contrario. Legalmente, estas
+maniobras no constituyen adelantamientos.
+No debes efectuar esta maniobra de sobrepaso fuera de la calzada.
+Condición bajo la cual ciclos, motocicletas y motonetas pueden sobrepa
+-
+sar a otros vehículos en la misma pista:
+Es importante mencionar que las
+personas conductoras de ciclos, motocicletas o motonetas pueden sobrepasar
+por la misma pista a otros vehículos, por cualquiera de los costados de estos,
+para alcanzar la línea de detención o la línea de detención adelantada
+,
+según corresponda. Esta maniobra deberá efectuarse a una velocidad mo
+-
+derada, tomando las precauciones necesarias,
+siempre que los vehículos
+sobrepasados se encuentren detenidos.
+Señal
+No Adelantar
+
+104
+Estacionamiento y detención
+No debes estacionar ni detener tu vehículo donde pueda constituirse en un riesgo para otras personas.
+Un vehículo estacionado puede impedir o perturbar la circulación del resto. Por tal razón, cuando necesites
+estacionar utiliza, en la medida que puedas, los lugares especialmente habilitados para el estacionamiento
+de vehículos fuera de la vía pública. Cuando ello no sea posible, y siempre que la señalización no lo prohíba,
+estaciónate al lado derecho de la calzada en el sentido del tránsito.
+Sólo excepcionalmente y cuando
+la señalización lo permita, podrás estacionar al lado izquierdo.
+A menos que esté permitida otra forma de estacionamiento, debes hacerlo en forma paralela a la cuneta,
+a no más de 30 centímetros de ella, para obstaculizar lo menos posible el tránsito y dejando una distancia
+mínima de 60 centímetros respecto de otros vehículos estacionados.
+En los caminos o vías rurales, estaciona de modo que todo el vehículo quede sobre la berma. Donde no
+exista berma, hazlo siempre al costado derecho y lo más cerca de la cuneta que puedas.
+En las vías con cierta inclinación, dejar las
+ruedas giradas hacia la cuneta o hacia el centro
+de la calzada, según se trate de bajada o subida,
+respectivamente, de modo que si el vehículo
+comenzara a rodar sea detenido.
+Detener el motor, dejar el vehículo enganchado
+y con el freno de mano puesto.
+Sacar la llave de contacto.
+AL ESTACIONAR, NO OLVIDES:
+Mirar hacia atrás antes de abrir la puerta,
+asegurándote de que no forzarás a nadie a
+desviarse bruscamente.
+Dejar el vehículo cerrado con llave.
+Que no debes dejar niñas y/o niños pequeños
+ni animales dentro del vehículo.
+Lugares donde está prohibido estacionar y detenerse:
+
+Donde las señales oficiales lo prohíban.
+
+En aceras, pasos de peatones o lugares destinados sólo al tránsito de los mismos.
+
+En doble fila, respecto a otros vehículos estacionados o detenidos en la calzada junto a la cuneta.
+
+A los lados, sobre o entre los refugios para peatones, bandejones o platabandas.
+
+Dentro de un cruce.
+
+Al costado o al lado opuesto de cualquier obstrucción de tránsito, excavación o trabajos en una calzada.
+
+En ciclovías.
+
+En los puentes, túneles, estructuras elevadas y pasos bajo y sobre nivel.
+
+En las calzadas o bermas de caminos públicos de 2 o más pistas de circulación en un mismo sentido.
+
+105
+Lugares donde no debes estacionar:
+
+Donde exista línea amarilla continua pintada a lo largo de la solera.
+
+Frente a las puertas de garajes de casas particulares y de establecimientos comerciales.
+
+A menos de 3 metros de las puertas de iglesias, establecimientos educacionales, hoteles y salas de es
+-
+pectáculos y entretenimientos, durante las horas de afluencia de público.
+
+A menos de 5 metros de un grifo para incendios.
+
+A menos de 10 metros de una señal PARE, Ceda el Paso y señales de advertencia de peligro, tales como
+Escuela, Puente Angosto, Curva, etc.
+
+Las señales de tránsito están para protegerte.
+Respételas, haz lo que estas te indiquen y condu
+-
+ce con cuidado cuando te adviertan un peligro.
+
+121
+Medidas que debes adoptar para mejorar la adherencia y prevenir deslizamientos:
+
+Comprueba frecuentemente si los frenos responden
+, porque al mojarse pierden eficacia y hay que
+secarlos. Para ello, sin ánimo de frenar, pisa ligera y suavemente y en forma repetida, el pedal de freno
+(
+efecto bombeo
+).
+
+Frena con suavidad
+, progresivamente y a pedaleadas cortas, no de manera brusca, porque ello puede
+provocar el bloqueo de las ruedas y el vehículo se deslizaría sobre ellas, patinando. Este efecto no se pro
+-
+duce cuando el vehículo cuenta con frenos ABS. En caso de que el vehículo comience a patinar, suelta el
+freno completamente para recuperar la tracción de las ruedas.
+
+Aumenta tu distancia con el vehículo que va adelante
+, para disponer, en caso de emergencia, de ma
+-
+yor espacio para detenerte. Tu distancia de frenado será a lo menos el doble a la que sería en condiciones
+ideales, debido a la disminución en la adherencia de los neumáticos sobre la calzada.
+
+Reduce la velocidad;
+esta recomendación es especialmente importante cuando te aproximes a una curva, a
+tramos con capas de agua, charcos u hojas caídas, para paliar la disminución de adherencia de los neumáticos.
+Aquaplaning o Hidroplaning:
+Cuando la lluvia es muy intensa, sobre la calzada se forma una película o capa de agua que se interpone
+entre la calzada y los neumáticos haciendo muy difícil la adherencia de estos.
+Cuando la capa de agua existente sobre la calzada es mayor a la que los neumáticos pueden desalojar a
+través de sus surcos, sucede lo siguiente:
+El agua se va acumulando adelante de las ruedas.
+Los neumáticos pierden adherencia y contacto con la superficie de calzada.
+El vehículo se desliza, planea y se desplaza sin que haya contacto real con la superficie de la calzada.
+La persona conductora pierde el dominio sobre el vehículo, no obedeciéndole la dirección ni los frenos.
+Este fenómeno se conoce comúnmente con el nombre de
+ﬁaquaplaningﬂ
+o
+ﬁhidroplaningﬂ.
+A mayor velocidad, mayor es la cantidad de agua que los neumáticos deben desplazar y más agua se
+acumula bajo ellos, lo que puede saturar los surcos. Por esta razón, para evitar el
+ﬁaquaplaningﬂ, el mejor
+consejo es moderar la velocidad
+, de modo que los neumáticos puedan desalojar bien el agua y pisar la
+superficie de la calzada. Además, es recomendable no frenar ni acelerar innecesariamente.
+Cuando haya charcos de agua en la calzada:
+
+Evita pasar por ellos
+, ya sea dejándolos entre las ruedas o a un lado si es posible y no resulta riesgoso.
+
+Modera la velocidad.
+Cuando no sea posible evitar los charcos, o haya que atravesarlos con las ruedas
+de un solo lado, reduce aún más la velocidad para que el vehículo no pierda estabilidad. De este modo,
+también evitarás mojar a otros vehículos y, eventualmente, afectarles su visibilidad. Además, debes tener
+la precaución de no mojar a peatones ni a ciclistas.
+
+122
+Cuando la calzada esté anegada:
+Si no tienes alternativa y te ves en la obligación de pasar por un tramo inundado, circula lentamente en
+primera y a velocidad constante.
+Cuando salgas del agua, antes de recuperar la velocidad que las circuns
+-
+tancias permitan, comprueba la eficacia de tus frenos presionando el pedal
+ligeramente. Si no funcionan bien, sécalos frenando suavemente.
+Medidas que debes adoptar para mejorar la visibilidad:
+La lluvia reduce la visibilidad no sólo porque hay menos luminosidad, sino que también porque el parabrisas,
+los vidrios laterales y la luneta trasera se ven cubiertas en su exterior por las gotas de agua, en algunas
+ocasiones, también por salpicaduras de barro. Además, el interior del vehículo se empaña de vaho. De igual
+modo, se ven afectados los espejos retrovisores y las luces del vehículo.
+Para mejorar la visibilidad:
+Mantén limpio el parabrisas, la luneta trasera y todas tus luces. Si es necesario, detente para limpiarlos.
+Pon en funcionamiento los limpiaparabrisas y el limpialuneta posterior, si el vehículo cuenta con ellos.
+Acciona el lavaparabrisas, cuando sea necesario. Para una mayor eficacia del limpiado, es recomendable
+utilizar un líquido limpia parabrisas.
+Elimina el vaho del interior del parabrisas, haciendo uso del sistema de calefacción y ventilación, orien
+-
+tado al parabrisas; activa el desempañador de la luneta trasera.
+Hazte más visible para el resto. Recuerda mantener tus luces siempre encendidas.
+La Nieve
+Cuando caen los primeros copos de nieve la conducción es tan peligrosa como cuando caen las primeras
+gotas de agua, porque, al mezclarse la nieve con el polvo, el aceite y otros restos, y ser pisada por los ve
+-
+hículos, se forma un barrillo que transforma el pavimento en una pista sumamente deslizante.
+Cuando la nieve está blanda y recién caída, forma una ligera capa que se va derritiendo, tornando resba
+-
+ladiza la calzada.
+Con nieve
+se reduce la adherencia de los neumáticos, disminuye el roce y, por lo tanto, hay peligro de
+deslizamiento. Además, cuando cae nieve se reduce la visibilidad.
+Cuando la nieve se congela o lleva tiempo en la calzada y se ha endurecido y apretado, sus efectos son
+similares a los del hielo.
+Puedes secar tus frenos
+presionando ligeramente
+el pedal de freno.
+
+123
+Medidas que debes adoptar para mejorar la adherencia y prevenir deslizamientos:
+Como norma general, cuando haya nieve conduce lentamente y en forma suave, sin movimientos bruscos
+de la dirección, ni cambios de marcha repentinos.
+Los frenos, acelerador, embrague, palanca de cambios y dirección deben usarse con extrema delicadeza
+y suavidad.
+Comprueba con frecuencia la eficacia de los frenos.
+Aumenta la distancia de seguridad respecto al vehículo que va adelante; en un pavimento resbaladizo
+tu distancia de detención es mucho mayor que en condiciones normales.
+Utiliza cadenas, al menos, en las ruedas motrices, es decir, las de tracción.
+A veces, parte de la nieve que expulsan hacia atrás los neumáticos se aloja en los tapabarros; retírala
+las veces que sea necesario.
+Sigue las huellas dejadas por los otros vehículos, con cuidado de no dañar las partes bajas del tuyo con
+los montículos centrales.
+Procura no adelantar.
+Sube las pendientes lentamente y a velocidad sostenida, porque al tratar de recuperar la velocidad
+perdida puedes provocar el derrape de las ruedas motrices, y si el vehículo se detiene te será muy difícil
+reanudar la marcha.
+Usa la marcha más alta que razonablemente sea posible emplear, ya que así conseguirás el mínimo incre
+-
+mento de velocidad de las ruedas motrices y se reducirá el riesgo de que patinen. Evita los cambios de marcha.
+Desciende las pendientes lentamente, a velocidad muy moderada y en una marcha baja. Frena con el
+motor y usando los frenos lo imprescindible, con mucha suavidad y anticipación, para evitar los derrapes.
+Al entrar a una curva, hazlo a una velocidad tal que no sea necesario usar los frenos en todo el desarrollo
+de ella, pues las ruedas delanteras tienen muchas más probabilidades de bloquearse si se frena mientras
+se gira la dirección.
+Al atardecer, cuando el sol y la temperatura bajan, la nieve sobre la ruta comienza a congelarse rápida
+-
+mente formando una película de escarcha muy peligrosa. Si se hizo tarde para el regreso, hay que extremar
+las precauciones y prestar suma atención al cambio de brillo de la nieve acumulada: donde hay más brillo
+está más dura y es posible que haya hielo.
+Medidas que debes adoptar para mejorar la visibilidad:
+Al depositarse nieve en el parabrisas, luneta trasera y vidrios, tu visual sobre la vía y entorno se verá dismi
+-
+nuida. A la vez, serás menos visible para las otras personas conductoras. Para compensar la menor visibilidad:
+Acciona los limpiaparabrisas y, si el vehículo posee, también el limpia luneta trasera.
+Acciona el lavaparabrisas cuantas veces sea necesario para ayudar a que la nieve se derrita. Sin embargo,
+si la temperatura es bajo cero el agua lanzada sobre el parabrisas puede helarse formado una capa de hielo
+sobre el cristal y los efectos que se producirían serían contrarios a los esperados. Por ello, es indispensable
+agregar anticongelante al líquido lavador.
+
+124
+Como los limpiaparabrisas no alcanzan a barrer toda la superficie del parabrisas, detente cuantas veces
+sea necesario para retirar la nieve del parabrisas, ventanas y luces.
+Aunque sea de noche, no conviene encender las luces altas cuando esté nevando porque estas no atra
+-
+viesan la cortina de copos de nieve, volviéndose contra ti con posibilidad de provocar un deslumbramiento.
+Si está nevando y tu vehículo cuenta con focos neblineros, enciéndelos.
+En ocasiones, después de una nevada sale el sol y la fuerte luz de los rayos solares sobre la nieve, molesta
+y daña la vista. Para evitarlo, protégete utilizando gafas que impiden la penetración directa de la intensa
+luminosidad en los ojos.
+El Hielo
+El hielo es muy peligroso, porque hace que la calzada se torne sumamente resbaladiza, por lo que deberás
+extremar las precauciones.
+El hielo reduce o incluso elimina la adherencia, existiendo grave peligro de deslizamiento.
+¿Cuándo y dónde es más probable que una calzada esté resbaladiza?
+En los días fríos y húmedos, las sombras que proyectan los árboles sobre el camino pueden esconder de
+la vista las partes heladas de la calzada. Las partes que reciben sombra son las primeras en congelarse y
+las últimas en descongelarse y secarse.
+Los puentes también pueden disimular partes heladas. Sus superficies tienden a congelarse mucho antes
+que el resto del camino.
+Si notas que la dirección del vehículo está excesivamente ligera, como si flotara, ello es un indicio que
+debes tener en cuenta.
+También puedes verificar que la calzada está con hielo, sin arriesgarte, frenando en forma suave mientras
+conduces lentamente.
+Medidas que debes adoptar para mejorar la adherencia y prevenir deslizamientos:
+Lo expuesto anteriormente para el caso de la nieve es igualmente aplicable a cuando debes conducir con
+hielo en la calzada.
+Hay que resaltar que cuando la calzada está helada,
+la distancia de frenado puede aumentar hasta 10
+veces
+por encima de lo normal, por lo que se debe circular a una mayor distancia del vehículo que va
+adelante y reducir la velocidad, soltando el acelerador del vehículo y evitando frenar.
+Como norma general, ten en cuenta que no existe ningún elemento que permita conducir sobre hielo o
+nieve en condiciones de seguridad ni siquiera aproximadas a las que se dan al conducir sobre un pavimento
+seco y limpio. No obstante, la adherencia se puede mejorar con neumáticos especiales, o bien,
+circulando
+con cadenas.
+
+125
+La Niebla
+Este fenómeno reduce la visibilidad. Cuando es muy espesa, prácticamente
+la elimina. Además, reduce la adherencia de los neumáticos al mojarse el
+pavimento y, por consiguiente, existe peligro de deslizamiento igual que
+cuando comienza a llover.
+Medidas que debes adoptar para mejorar la visibilidad y adherencia:
+Lo expuesto anteriormente al referirnos a la lluvia y la nieve, puede ser también aplicado a los casos de
+niebla. Además, se debe recalcar que si es importante ver, también lo es el que seas visible por las demás
+personas conductoras.
+Mantén encendidas tus luces bajas. Estas, al proyectarse directamente hacia el suelo se ven más y mejor.
+No conviene utilizar luces altas, porque, al proyectarse paralelas sobre la calzada, las diminutas gotas
+de agua y partículas en suspensión no se dejan penetrar y reflejan la luz como un espejo.
+Si tu vehículo cuenta con focos neblineros delanteros, enciéndelos, simultáneamente con las luces bajas.
+Las luces de niebla traseras son de gran importancia para ser visible por quienes circulan atrás, pero
+úsalas sólo cuando la niebla es espesa, ya que podrías deslumbrar.
+Aumenta tu distancia de seguridad en relación al vehículo de adelante. Así tendrás más espacio para
+reaccionar ante cualquier frenada, reducción de velocidad o maniobra de quien va adelante.
+Reduce tu velocidad, no sólo para mejorar la adherencia y prevenir los deslizamientos, sino que espe
+-
+cialmente para poder detener el vehículo dentro de la zona que alcanzas a ver hacia adelante.
+No adelantes a otros vehículos si la visibilidad es tan reducida que te impide una buena observación
+hacia adelante.
+Pon especial atención a las demarcaciones. Las líneas longitudinales, centrales o de borde de calzada,
+te serán de ayuda en la trayectoria a seguir.
+Si es peligrosa la circulación con niebla, también lo son las detenciones y paradas en la calzada, porque
+la falta de visibilidad puede provocar siniestros.
+El viento fuerte
+El viento fuerte, principalmente cuando en caminos de montaña sopla de lado, es otro riesgo para la con
+-
+ducción, ya que puede provocar la salida del camino o volcamiento del vehículo.
+Medidas que debes adoptar:
+
+Reducir la velocidad:
+A mayor fuerza del viento, más baja debe ser la marcha. Así el peso del vehículo
+ayuda a que se afirme mejor.
+
+Corregir las desviaciones para corregir la trayectoria:
+Para ello, sujeta el volante con firmeza y gíralo
+contra el viento.
+
+Las ráfagas agravan el problema:
+Conduce con máxima precaución y atención para evitar posibles desvíos.
+Recuerda que una persona ciclista o motociclista podría tambalear o ver desviada su trayectoria debido
+al viento, por lo que si vas a adelantar o sobrepasar debes
+mantener una distancia lateral segura
+.
+La niebla requiere calma y
+que no te empeñes en ver
+más de lo que realmente
+puedes ver.
+
+CAPÍTULO
+8
+Conducción
+eficiente
+
+127
+En este capítulo queremos entregarte las herramientas necesarias para reducir el consumo de combustible
+que utilizas mientras conduces. La importancia de esto radica en que, al mejorar tus hábitos de conducción,
+lograrás beneficios tanto para ti como para el medio ambiente y beneficios a la seguridad en las calles y
+carreteras del país. Además, brindarás seguridad a las demás personas usuarias de las vías.
+¿Qué entendemos por conducción eficiente?
+Utilizamos el concepto de Conducción Eficiente para referirnos a una actitud y un tipo de conducción que
+te permitirá obtener un
+mayor rendimiento energético en tu vehículo
+.
+La información contenida en este capítulo, tiene por
+objetivo esencial ayudarte a crear hábitos que te permi
+-
+tan mejorar tu conducción en forma continua, así como
+atender a algunos aspectos básicos de mantenimiento
+del vehículo, lo que finalmente incidirá en la reducción
+del consumo de combustible.
+¿Cómo incide la Conducción Eficiente en el consumo?
+Los beneficios de la Conducción Eficiente se manifiestan principalmente en un menor costo del viaje y
+menor costo en el mantenimiento del vehículo.
+
+Asimismo, la forma de conducir es esencial en la reducción de diversos contaminantes atmosféricos, entre
+ellos el dióxido de carbono, uno de los principales causantes del efecto invernadero, fenómeno que consiste
+en la retención del calor producto de la acumulación de gases en la atmósfera.
+A continuación se verán algunas técnicas para ser una persona conductora eficiente. No todas se aplican
+mientras estás conduciendo, sino también, antes de subirte al vehículo. Por ello, se presentan los consejos
+que se aplican antes de partir y durante tu trayecto.
+Conducción
+eficiente
+Diversos estudios realizados por la Agencia
+Chilena de Eficiencia Energética (AChEE) han
+demostrado que aplicar técnicas en Conduc
+-
+ción Eficiente permite reducir entre un 10 y
+un 15% el consumo de combustible.
+Menor costo
+de mantenimiento
+Menor costo
+del viaje
+CONDUCCIÓN EFICIENTE
+
+128
+Recomendaciones antes de partir tu viaje
+Una persona conductora eficiente no se preocupa únicamente de cómo conduce, sino también de otros
+aspectos previos a la conducción misma, que influirán directamente en el consumo de combustible final
+de cada viaje. A continuación, se indican algunas recomendaciones antes de partir.
+Planifica tu recorrido
+Lo primero que se debes considerar para tener una conducción eficiente es planificar la ruta y salir con
+tiempo. Es posible que desconozcas la existencia de rutas más cortas para llegar a un mismo destino. Es
+por eso que te recomendamos revisar previamente el mapa a fin de identificar y optar por alternativas
+que acorten tu trayecto. De este modo evitarás recorrer kilómetros extra que te obliguen a gastar más
+combustible del necesario.
+Si buscas las rutas menos congestionadas y evitas, en la medida de lo posible, las horas de mayor tráfico,
+podrás disminuir tu consumo de combustible así como el tiempo que demoras el viaje. Esto implica estar
+menos tiempo con el motor encendido consumiendo combustible. Además, una ruta con baja congestión
+te permitirá mantener una velocidad constante y, por lo tanto, obtener un mejor rendimiento.
+Te recomendamos preparar con antelación las
+cosas que harás o las que necesitarás, como por
+ejemplo, reunir varios trámites en un mismo
+viaje, de esta forma evitarás viajes innecesarios,
+reduciendo las veces que sacas tu vehículo a la calle. La eficiencia energética no es hacer menos, sino hacer
+lo mismo pero gastando menos. ¿Para qué hacer dos viajes, si en uno puedes hacer todos los trámites?
+Si tienes un GPS o tu teléfono celular cuenta con uno, utilízalo para planificar la ruta
+antes del viaje
+.
+Existen sistemas GPS y aplicaciones para teléfonos móviles que, además, entregan indicaciones mientras
+conduces para hacer aún más fácil seguir la ruta deseada.
+Recuerda no manipular tu teléfono mientras
+estés conduciendo
+, escucha las indicaciones del GPS a través del audio de cada aplicación.
+Prepara tu vehículo para el viaje
+Para mover una carga más grande se necesita más fuerza que para mover una pequeña. De la misma forma,
+mientras más carga o peso tenga el vehículo, este requerirá de más fuerza para moverla. Esa fuerza se
+obtiene gracias a la energía contenida en el combustible.
+Así,
+mientras mayor peso se tenga en el vehículo, mayor será el consumo de combustible
+. Verifica no
+tener objetos de excesivo peso para el viaje, como cajas de herramientas o portaequipajes en el techo,
+cuando no sean realmente necesarios. Guárdalos en otro lugar donde no impliquen un gasto de energía.
+Planificar tu viaje con antelación te permite obtener
+un mayor rendimiento de tu vehículo, además de dis
+-
+minuir el estrés y la fatiga asociada a la conducción.
+
+129
+Cuida la aerodinámica
+Los equipos portaequipajes y bultos en el techo tienen otro efecto adicional que aumenta el consumo de
+combustible. Especialmente a altas velocidades, se produce una resistencia aerodinámica, que tiene que
+ver con la oposición del aire al movimiento del vehículo. Si tienes un portaequipajes o bulto en el techo,
+el consumo se puede incrementar por sobre un 20% en carretera
+4
+.
+Controla la presión de aire de los neumáticos de forma regular
+Cuando el neumático tiene menos aire que el necesario, exige más trabajo poder mover el vehículo. Ima
+-
+gina lo que significa andar en bicicleta con una rueda desinflada, requiere de mucho más esfuerzo de tu
+parte. En el caso del vehículo, requiere de mucho más combustible.
+Es necesario revisar la presión de tus neumáticos regularmente, en la frecuencia descrita por el fabricante
+en el manual del vehículo, o al menos cada dos semanas. La presión a utilizar también se puede encontrar
+en el marco de una de las puertas, generalmente en la de la persona que conduce. Dicha revisión, también
+debe ser efectuada antes de iniciar un viaje largo como en las vacaciones u otras salidas fuera de la ciudad.
+Se estima que una reducción en 5 PSI del nivel óptimo de aire en los neumáticos puede incrementar el
+consumo de combustible en un 3%
+5
+.
+Mientras
+más carga
+haya en el vehículo,
+mayor es la fuerza
+que se debe hacer
+para moverlo.
+Con
+menor carga
+, se requiere
+menos
+esfuerzo
+. En el vehículo, esto se traduce en
+menos consumo de combustible.
+(4 y 5) Fuente: IDAE, Instituto para la Diversificación y Ahorro de la Energía.
+
+130
+Beneficios de un buen mantenimiento
+Tal como se señaló en la sección
+Funcionamiento del auto
+-
+móvil
+del capítulo
+Los principios de la conducción
+, un buen
+mantenimiento te permitirá conducir tu vehículo de forma
+segura y, además, te permitirá aumentar la vida útil de sus
+diversos componentes, así como también mantener un buen
+rendimiento de combustible, y tener mayor disponibilidad
+del vehículo.
+Además de los neumáticos, existen otros elementos clave para
+mantener un buen rendimiento. Un filtro de combustible en
+mal estado puede incrementar el consumo en un 0,5%, debido
+a que la bomba debe hacer más fuerza para llevarlo hasta el
+motor. Eventualmente, no se contará con la cantidad necesaria
+de combustible ante una exigencia de aceleración al motor. Lo
+anterior podría generar una combustión incompleta, esto es,
+aquella en que no se aprovecha el total de energía disponible.
+Permite conducir de
+forma segura.
+Aumentas la vida útil de
+sus componentes.
+Mantienes un buen
+rendimiento de
+combustible.
+Mayor disponibilidad
+del vehículo.
+MANTENIMIENTO
+
+DE
+
+TU
+
+VEHÍCULO
+Un filtro de aire sucio puede llegar a perjudicar en un 1,5% el rendimiento, pues al no haber suficiente
+aire disponible, o bien al estar contaminado, el combustible no se logra utilizar en un 100%. Existe una
+proporción óptima de aire y combustible que permite extraer la máxima energía de este último en la com
+-
+bustión. Si esta no se cumple por no haber suficiente aire, parte del recurso energético no se aprovechará.
+Recomendaciones para aplicar durante tu trayecto
+Una persona conductora eficiente es aquella capaz de aplicar ciertas técnicas básicas durante su conduc
+-
+ción. Por un tema de costumbre, seguramente no te será posible llevar a la práctica todos los consejos
+contenidos en este capítulo de manera inmediata. Por lo mismo, te recomendamos aplicar las siguientes
+técnicas paulatinamente y a medida que se vayan haciendo naturales en ti, se constituirán en un hábito.
+Enciende el motor sin pisar el acelerador
+Cuando enciendas el motor, prefiere no pisar el acelerador, pues tal acción sólo provoca un incremento
+en el consumo. Los vehículos modernos están provistos de un sistema electrónico que permite regular la
+partida e inyección de combustible hacia el motor.
+
+131
+Acelera de manera suave
+Evita acelerar a fondo. Las aceleraciones a fondo generan un consumo excesivo de combustible. Una per
+-
+sona conductora que usualmente acelera a fondo tendrá un gasto energético mucho mayor que una que
+lo hace de forma paulatina.
+Velocidad óptima
+Si bien en carreteras se permiten límites de velocidad de 90, 100 o hasta 120 km/h, se debe tener en cuenta
+que a altas velocidades el rendimiento de combustible se reduce bastante, del orden de un 10% y más.
+Claro, si viajas grandes distancias podría justificarse el circular a la máxima velocidad permitida. Pero en
+caso de distancias menores a 100 km, la ganancia de tiempo es bastante baja. Te invitamos a ver en cuánto
+tiempo se reduce tu viaje al aumentar tu velocidad en 10 km/h en la tabla de la sección de
+Encuentros y
+adelantamientos
+del capítulo
+Señales de tránsito verticales
+A continuación, te presentamos más ejemplos de señales verticales. Si deseas conocer la totalidad de
+estas, te invitamos a consultarlas en el Manual de Señalización de Tránsito, de CONASET.
+Señales Reglamentarias
+Tienen por finalidad notificar a las personas usuarias de las vías las prioridades en el uso de las mismas, así
+como las prohibiciones, restricciones, obligaciones y autorizaciones existentes. Su transgresión constituye
+infracción a las normas de tránsito.
+NO VIRAR
+DERECHA
+PREFERENCIA
+CICLISTAS AL VIRAR
+IZQUIERDA
+NO VIRAR EN U
+PREFERENCIA
+CICLISTAS AL
+CAMBIAR DE PISTA
+PARE NIÑOS
+NO ADELANTAR
+PREFERENCIA
+CICLISTAS AL
+CAMBIAR DE PISTA
+NO ENTRAR
+NO CAMBIAR
+DE PISTA
+NO VIRAR
+IZQUIERDA
+PREFERENCIA
+CICLISTAS AL VIRAR
+DERECHA
+PROHIBIDA
+CIRCULACIÓN
+DE VEHÍCULOS
+DE CARGA
+CEDA EL PASO
+PARE
+PROHIBIDA
+CIRCULACIÓN
+DE VEHÍCULOS
+MOTORIZADOS
+
+151
+PROHIBIDA
+CIRCULACIÓN DE
+VEHÍCULOS DE
+TRACCIÓN ANIMAL
+PROHIBIDO
+ESTACIONAR
+PESO MÁXIMO
+PERMITIDO
+LARGO MÁXIMO
+PROHIBIDA
+CIRCULACIÓN
+DE CARROS
+DE MANO
+PROHIBIDO
+ESTACIONAR
+VELOCIDAD
+MÁXIMA ZONA 30
+FIN PROHIBICIÓN O
+RESTRICCIÓN
+SILENCIO
+NO PEATONES
+PESO MÁXIMO
+POR EJE
+SOLO TELEVÍA
+O SISTEMA
+COMPLEMENTARIO
+NO BLOQUEAR
+CRUCE
+VELOCIDAD
+MÁXIMA
+ALTURA
+MÁXIMA
+TRÁNSITO EN UN
+SOLO SENTIDO
+PROHIBIDO
+ESTACIONAR Y
+DETENERSE
+VELOCIDAD
+MÍNIMA
+ANCHO
+MÁXIMO
+TRÁNSITO EN
+AMBOS SENTIDOS
+PROHIBIDA
+CIRCULACIÓN
+DE BUSES
+PROHIBIDA
+CIRCULACIÓN
+DE BICICLETAS
+PROHIBIDA
+CIRCULACIÓN
+DE MOTOCICLETAS
+PROHIBIDA
+CIRCULACIÓN
+DE MAQUINARIA
+AGRÍCOLA
+TRÁNSITO
+PEATONAL
+
+152
+TRÁNSITO DE
+PEATONES
+CONTROL
+VÍA SEGREGADA
+BUSES
+PERMITIDO VIRAR
+IZQUIERDA CON
+LUZ ROJA
+PASO OBLIGADO
+DERECHA
+USO OBLIGATORIO
+DE CADENAS
+SOLO TRANSPORTE
+PÚBLICO
+RESERVADO
+PASO OBLIGADO
+IZQUIERDA
+LUCES
+ENCENDIDAS
+SUPERFICIE
+SEGREGADA
+MOTORIZADOS -
+CICLOS
+PASO VÉRTICE
+SOLO
+MOTOCICLETAS
+SUPERFICIE
+SEGREGADA
+PEATONES-CICLOS
+MINIRROTONDA
+VÍA SEGREGADA
+BUSES
+PERMITIDO VIRAR
+DERECHA CON
+LUZ ROJA
+MATENGA SU
+DERECHA
+VEHÍCULO PESADO
+MANTENGA SU
+DERECHA
+DIRECCIÓN
+OBLIGADA
+PREFERENCIA AL
+SENTIDO
+CONTRARIO
+CIRCULACIÓN EN
+AMBOS SENTIDOS
+
+153
+Señales de Advertencia de Peligro
+Su propósito es advertir a las personas usuarias de la vía la existencia y naturaleza de riesgos y/o situacio
+-
+nes imprevistas presentes en la vía o en sus zonas adyacentes, ya sea en forma permanente o temporal.
+Suelen denominarse también
+Señales Preventivas
+.
+CURVA A LA
+DERECHA
+CURVA MUY CERRADA
+A LA DERECHA
+PENDIENTE FUERTE
+EN SUBIDA
+ZONA DE CURVAS
+A LA IZQUIERDA
+CURVA A LA
+IZQUIERDA
+CURVA MUY CERRADA
+A LA IZQUIERDA
+PENDIENTE FUERTE
+EN SUBIDA
+CURVA Y
+CONTRACURVA A
+LA DERECHA
+CURVA CERRADA A
+LA DERECHA
+PENDIENTE FUERTE
+EN BAJADA
+RIBERA SIN
+PROTECCIÓN
+CURVA Y
+CONTRACURVA A
+LA IZQUIERDA
+CURVA CERRADA A
+LA IZQUIERDA
+PENDIENTE FUERTE
+EN BAJADA
+AEROPUERTO O
+AERÓDROMO
+CURVA Y
+CONTRACURVA
+CERRADA A
+LA DERECHA
+ZONA DE CURVAS
+A LA DERECHA
+PROXIMIDAD
+DE TÚNEL
+VIENTO LATERAL
+CURVA Y
+CONTRACURVA
+CERRADA A
+LA IZQUIERDA
+
+154
+ANGOSTAMIENTO
+A AMBOS LADOS
+ENSANCHAMIENTO
+A LA DERECHA
+RESALTOS
+SUCESIVOS
+BARRERAS
+LARGO MÁXIMO
+ANGOSTAMIENTO
+A LA DERECHA
+ENSANCHAMIENTO
+A LA IZQUIERDA
+BADÉN
+SEÑAL FIN
+MEDIANA
+INICIO DE
+MEDIANA
+ANGOSTAMIENTO
+A LA IZQUIERDA
+PESO MÁXIMO
+PROYECCIÓN
+DE GRAVILLA
+CRUCE FERROVIARIO
+A NIVEL SIN
+BARRERAS
+PROXIMIDAD DE
+CABLES DE ALTA
+TENSIÓN
+PUENTE ANGOSTO
+ALTURA MÁXIMA
+ZONA DE
+AVALANCHA
+CRUCE FERROVIARIO
+A NIVEL CON
+BARRERAS
+RESALTO
+ENSANCHAMIENTO
+A AMBOS LADOS
+ANCHO MÁXIMO
+PELIGRO
+CRUCE DE
+SAN ANDRÉS
+UBICACIÓN
+RESALTO
+
+155
+PROXIMIDAD
+ROTONDA
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+CRUCES
+BIFURCACIONES Y
+CONVERGENCIAS
+DOS SENTIDOS DE
+TRÁNSITO
+ANIMALES
+EN LA VÍA
+PROXIMIDAD DE
+SEMÁFORO
+CICLISTAS
+EN LA VÍA
+ZONA DE PEATONES
+PROXIMIDAD
+DE SEÑAL
+ﬁCEDA EL PASOﬂ
+MAQUINARIA
+AGRÍCOLA
+PROXIMIDAD DE
+PASO DE CEBRA
+PROXIMIDAD DE
+SEÑAL ﬁPAREﬂ
+CARRETELAS
+EN LA VÍA
+ZONA
+DE ESCUELA
+CRUCE CICLISTA
+ANIMALES
+EN LA VÍA
+NIÑOS JUGANDO
+SALIDA CARRO
+BOMBEROS
+
+156
+ZONA DE
+DERRUMBES
+PAVIMENTO
+RESBALADIZO
+DESNIVEL SEVERO
+Señales Informativas
+Tienen como propósito orientar y guiar a las personas usuarias del sistema vial, entregándoles la información
+necesaria para que puedan llegar a sus destinos de la forma más segura, simple y directa posible. Ejemplos:
+RUTA ALTERNATIVA
+DE CONFIRMACIÓN
+SALIDA INMEDIATA
+DE DIRECCIÓN
+BALIZAS DE
+ACERCAMIENTO
+DE LOCALIZACIÓN
+NOMBRE Y NUMERACIÓN
+DE CALLE
+ESCUDO NUMERACIÓN
+DE CAMINOS
+
+157
+Dentro de estas señales se encuentran también aquellas que informan de servicios (de color azul) y las
+que se refieren a lugares de atractivo turístico o recreacional (de color café). Ejemplos:
+
+AEROPUERTO
+SERVICIOS
+HIGIÉNICOS
+BUSEO
+ALIMENTACIÓN
+RESTAURANT
+ACANTILADO
+CANOPY/TIROLESA
+ALOJAMIENTO
+CASINO
+TELÉFONO
+PÚBLICO
+CABALGATA
+eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano,
+estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera
+y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones.
+Semáforo:
+Dispositivo luminoso mediante el cual se regula la circulación de vehículos
+y peatones.
+Señal de tránsito:
+Dispositivos, signos y demarcaciones oficiales, de mensaje permanente
+o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el
+tránsito.
+Sobrepasar:
+Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en
+el mismo sentido sin traspasar el eje de la calzada.
+Triciclo motorizado de carga:
+Vehículo motorizado de tres ruedas destinado exclusiva
+-
+mente al transporte de carga. La capacidad de carga de estos vehículos no podrá superar
+los 300 kilogramos de peso.
+Vehículo de emergencia:
+El perteneciente a Carabineros de Chile e Investigaciones,
+al Cuerpo de Bomberos y las ambulancias de las instituciones fiscales o de los esta
+-
+blecimientos particulares que tengan el respectivo permiso otorgado por la autoridad
+competente.
+Vehículo de locomoción colectiva:
+Vehículo motorizado, destinado al uso público, para
+el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio
+colectivo.
+
+165
+Vehículo para el transporte escolar:
+Vehículo motorizado construido para transportar
+más de siete personas sentadas y destinado al transporte de escolares desde o hacia el
+colegio o relacionado con cualquiera otra actividad.
+Vía:
+Calle, camino u otro lugar destinado al tránsito.
+Vía exclusiva:
+Calzada debidamente señalizada, destinada únicamente al uso de ciertos
+vehículos, determinados por la autoridad correspondiente.
+Zona de espera especial:
+Área señalizada conforme al reglamento, que permite a las
+personas conductoras de ciclos o motocicletas detenerse y reiniciar su marcha adelante
+de otros vehículos motorizados, en un cruce regulado con semáforo.
+Zona de Tránsito Calmado:
+Vía o conjunto de vías emplazadas en zonas urbanas, definidas
+dentro de una determinada área geográfica, en las que a través de condiciones físicas u
+operacionales de las vías se establecen velocidades máximas de circulación inferiores
+a las establecidas en la ley, pudiendo estas ser de 40 km/h, 30 km/h o 20 km/h.
+Zona rural:
+Área geográfica que excluye las zonas urbanas.
+Zona urbana:
+Área geográfica cuyos límites, para los efectos de esta ley, deben estar
+determinados y señalizados por las Municipalidades.
+
+166
+Referencias
+Conduciendo en la Montaña, CONASET, Chile.
+Decreto Supremo 170, 1985, Ministerio de Transportes y Telecomunicaciones, Chile.
+Dirección General de Tráfico, Ministerio Interior, España.
+Guía de Conducción Eficiente - Vehículos particulares, Agencia Chilena de Eficiencia
+Energética (AChEE), Chile.
+Guía para ciclistas en Chile, Para contribuir a la movilidad segura y sostenible en bici
+-
+cleta y otros ciclos, CONASET, Chile.
+Guía Preventiva de los Efectos del Alcohol y las Drogas en la Conducción, CONACE,
+CONASET, Chile.
+DFL 1 (Ley de Tránsito), 2007, Ministerio de Transportes y Telecomunicaciones, Chile.
+Manual de Señalización de Tránsito, Ministerio de Transportes y Telecomunicaciones,
+Chile.
+Manual ﬁLa Conducción Eficienteﬂ, Instituto para la Diversificación y Ahorro de la Energía
+(IDAE), España.
+Manual ﬁLibro del Nuevo Conductorﬂ, CONASET, Chile.
+Módulo 3. Las personas en el tránsito 2: Alcohol y conducción. Programa Formativo de
