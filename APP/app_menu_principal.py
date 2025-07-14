@@ -59,21 +59,34 @@ else:
     if capitulos:
         cap = st.selectbox("Selecciona un capítulo o módulo:", capitulos)
         texto = cargar_texto(seleccionado, cap)
-        
+
         st.markdown(f"### 📖 Contenido de {cap.replace('_', ' ').title()}")
 
-        # CONTENEDOR CON SCROLL QUE INCLUYE AUDIO Y QUIZ
-        st.markdown(
-            f"""
-            <div style="height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 1rem; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 1rem;">
-                <p style="white-space: pre-wrap;">{texto}</p>
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
+        # Mostrar texto con scroll interno
+        if texto.strip():
+            st.markdown("#### 📄 Texto del capítulo:")
+            st.markdown(
+                f"""
+                <div style="
+                    height: 400px;
+                    overflow-y: scroll;
+                    border: 1px solid #ccc;
+                    padding: 1rem;
+                    border-radius: 8px;
+                    background-color: #fdfdfd;
+                    white-space: pre-wrap;
+                    font-family: sans-serif;
+                ">
+                {texto.replace('\n', '<br>')}
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+        else:
+            st.warning("Este capítulo no tiene texto aún.")
 
-        # Botón de audio fuera del bloque HTML (por temas de funcionalidad)
-        if st.button("🔊 Escuchar contenido"):
+        # Botón de audio
+        if texto.strip() and st.button("🔊 Escuchar contenido"):
             from gtts import gTTS
             from tempfile import NamedTemporaryFile
             with st.spinner("Generando audio..."):
@@ -82,7 +95,7 @@ else:
                     tts.save(tmpfile.name)
                     st.audio(tmpfile.name, format="audio/mp3")
 
-        # Cargar quiz si existe
+        # Mostrar quiz
         quiz = cargar_quiz(seleccionado, cap)
         if quiz:
             st.markdown("### 🧠 Quiz del capítulo")
