@@ -1,1 +1,0 @@
-Este curso interactivo enseña los fundamentos de Python paso a paso.
