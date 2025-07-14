@@ -1,0 +1,240 @@
+LOS PRINCIPIOS DE LA CONDUCCIÓN
+
+Funcionamiento del automÃ³vil
+Para poder conducir de manera segura su automÃ³vil, usted debe mantenerlo en buenas condiciones. Para ello es necesario que sepa cÃ³mo estÃ¡ construido y cÃ³mo funciona.
+El motor
+El motor es el corazÃ³n del vehÃ­culo; casi siempre se sitÃºa en la parte delantera. Como combustible, en la mayorÃ­a de los casos, utiliza gasolina, siendo poco frecuente el uso de petrÃ³leo diesel y de gas.
+En el panel de instrumentos del vehÃ­culo, el tacÃ³metro muestra la cantidad de revoluciones del motor.
+El sistema de lubricaciÃ³n
+En un motor hay muchas partes mÃ³viles que requieren lubricaciÃ³n, la que se realiza a presiÃ³n. El aceite tiene la misiÃ³n de disminuir la fricciÃ³n y el desgaste entre las distintas partes mÃ³viles. Cuando el motor no estÃ¡ siendo lubricado se enciende en el panel de instrumentos la luz indicadora de la presiÃ³n de aceite, lo que indica que el nivel de aceite es bajo. Si Ã©sta se enciende, detenga el motor de inmediato y no lo ponga en marcha hasta haber reparado la averÃ­a. Si no sigue este consejo, la reparaciÃ³n puede resultarle muy cara.
+Controle el nivel de aceite. Agregue mÃ¡s aceite si el nivel estÃ¡ bajo. Cambie periÃ³dicamente el aceite y el filtro, segÃºn las recomendaciones del fabricante del vehÃ­culo.
+Use siempre aceites reconocidos. Controle el sello de los envases.
+El sistema elÃ©ctrico
+La energÃ­a elÃ©ctrica que necesita el vehÃ­culo es producida por el alternador, el que es movido mediante una correa desde el motor. Esta energÃ­a es almacenada en la baterÃ­a. El efecto del alternador disminuye cuando la correa estÃ¡ poco tensa. Si la carga de la baterÃ­a no es suficiente, usted lo sabrÃ¡ mediante la luz de advertencia o la correspondiente aguja en el panel de instrumentos.
+Todos los accesorios que utilizan electricidad estÃ¡n casi siempre provistos de fusibles para impedir incendios o daÃ±os en el sistema elÃ©ctrico. Si alguna unidad elÃ©ctrica deja de funcionar, controle, en primer lugar, si se ha fundido algÃºn fusible.
+Si alguna ampolleta no enciende o si la luz de control de los intermitentes destella en forma mÃ¡s rÃ¡pida que lo habitual, es probable que una ampolleta se haya quemado.
+Una baterÃ­a mal cargada hace que el vehÃ­culo tenga dificultades para arrancar, especialmente cuando la temperatura es baja.
+Si el motor del vehÃ­culo no se enciende al darle contacto es muy probable que la baterÃ­a se encuentre descargada o desconectada.
+CONTROLE
+El nivel de lÃ­quido en la baterÃ­a. Agregue agua destilada en caso necesario.
+Que la correa del alternador estÃ© suficientemente tensa.
+Que los cables de la baterÃ­a estÃ©n bien sujetos.
+La luz de carga durante la conducciÃ³n. Si se enciende o parpadea es porque hay algÃºn problema.
+Â¡PrecauciÃ³n! El Ã¡cido de la baterÃ­a es corrosivo; tenga cuidado con su ropa y la piel.
+El sistema de combustible
+El sistema de combustible consta de un estanque de combustible, conductos y una bomba. El combustible y el aire se mezclan en el carburador o por el sistema de inyecciÃ³n, y luego son aspirados por el motor. Hoy en dÃ­a, la mayorÃ­a de los motores carece de carburador, siendo el combustible inyectado directamente al mÃºltiple de admisiÃ³n (motores de inyecciÃ³n).
+A veces, cuando el motor estÃ© frÃ­o, usted tendrÃ¡ que reducir la cantidad de aire de la mezcla para que el motor arranque. Esto se hace con la ayuda de un regulador o cebador, comÃºnmente denominado â€œchupeteâ€. Algunos vehÃ­culos tienen este regulador automÃ¡tico, mientras que los que tienen motor a inyecciÃ³n, carecen de Ã©l, ya que son controlados por un microprocesador.
+Los vapores de la gasolina pueden ser cancerÃ­genos. Evite la apertura de la tapa mÃ¡s veces de lo necesario.
+Procure llenar el estanque de combustible cada vez que vaya a la bomba de bencina. ContaminarÃ¡ menos al liberar menos gases.
+
+Utilice el octanaje adecuado al motor de su vehÃ­culo (de acuerdo a las recomendaciones del fabricante).
+AL CARGAR GASOLINA RECUERDE:
+Apagar el motor del vehÃ­culo.	â€¢ No encender cigarrillos.
+Evitar la inhalaciÃ³n de vapores emanados por la gasolina.	â€¢ No hablar por celular.
+Las frecuentes frenadas y aceleraciones al conducir causan alto consumo de combustible.
+Si al conducir usted siente un fuerte olor a gasolina debe detenerse para investigar la causa del problema. AsÃ­ puede prevenir el riesgo de incendio en su vehÃ­culo.
+El sistema de refrigeraciÃ³n
+El sistema de refrigeraciÃ³n tiene la misiÃ³n de enfriar el motor para que mantenga la temperatura adecuada. El motor se enfrÃ­a con un lÃ­quido refrigerante (agua destilada mÃ¡s un anticongelante) que circula por canales en el bloque del motor y pasa desde ahÃ­ al radiador. Una temperatura del motor demasiado alta puede deberse a una obstrucciÃ³n del sistema de refrigeraciÃ³n, poca cantidad de lÃ­quido, correa de la bomba de agua rota o mal tensada. Si la temperatura del motor ha aumentado, detÃ©ngase y repare la averÃ­a.
+Hoy dÃ­a la mayorÃ­a de los vehÃ­culos tiene ventilador elÃ©ctrico que se activa al subir la temperatura (especialmente al circular a baja velocidad). Si esto no sucede, puede deberse a un contacto defectuoso o a un fusible daÃ±ado.
+Si la temperatura del vehÃ­culo estÃ¡ subiendo mÃ¡s de lo normal es probable que se haya roto la correa del ventilador.
+A temperaturas bajo cero es importante que el lÃ­quido refrigerante contenga una cantidad suficiente de anticongelante que impida que el motor y el radiador se daÃ±en por efecto de la congelaciÃ³n del agua.
+El sistema de escape
+Los gases de escape contienen monÃ³xido de carbono, que es venenoso, incoloro y carece de olor. Los primeros sÃ­ntomas de intoxicaciÃ³n son el dolor de cabeza y los vÃ³mitos. Los gases de escape poseen, ademÃ¡s, muchas otras sustancias tÃ³xicas, peligrosas para usted y para el medio ambiente.
+Recuerde que existe un gran riesgo de que el sistema de escape se oxide o se estropee, lo que puede provocar que el monÃ³xido de carbono penetre en el interior del vehÃ­culo. Un ruido anormalmente alto del tubo de escape suele ser una seÃ±al de roturas o de orificios en el silenciador.
+El embrague
+El embrague se encuentra entre el motor y la caja de cambios. Al presionar el pedal del embrague se desconecta la transmisiÃ³n de potencia del motor a la caja de cambios, por lo tanto, no se transmite energÃ­a a las ruedas de tracciÃ³n.
+Usted debe saber que al conducir presionando el embrague durante un tiempo mayor al necesario se reduce el control sobre el vehÃ­culo.
+La caja de cambios
+La caja de cambios multiplica la fuerza del motor. Ã‰sta puede tener 3, 4, 5 o mÃ¡s marchas. Cada marcha se utiliza en un rango de velocidades. Circular en la marcha adecuada a la respectiva velocidad ahorra combustible y emite menos contaminantes. Cada marcha tiene su sector de velocidad,  el que varÃ­a de un vehÃ­culo a otro.
+Los vehÃ­culos con caja de cambios automÃ¡tica, que son cada vez mÃ¡s comunes, carecen de pedal de embrague.
+La direcciÃ³n
+La direcciÃ³n se desalinea con mayor rapidez cuando el vehÃ­culo es sometido a sobrecargas, asÃ­ como cuando topa contra el borde de una solera u otro obstÃ¡culo, o cae en hoyos.
+La desalineaciÃ³n de las ruedas produce vibraciones y aumenta el desgaste de los neumÃ¡ticos. Esto puede contribuir a que se produzca juego en la direcciÃ³n.
+Si siente la direcciÃ³n pesada, si al conducir por un terreno plano el vehÃ­culo tiende a irse hacia un lado, o si al doblar chirrea en exceso, ello le estÃ¡ indicando algÃºn defecto en la direcciÃ³n o que alguna de las ruedas delanteras tiene poca presiÃ³n de aire.
+Muchos automÃ³viles estÃ¡n equipados con servodirecciÃ³n. Ã‰ste consiste en un dispositivo hidrÃ¡ulico auxiliar que facilita el control de la direcciÃ³n.
+La suspensiÃ³n y la amortiguaciÃ³n
+Los sistemas de suspensiÃ³n y amortiguaciÃ³n son los encargados de mantener en todo momento el contacto entre los neumÃ¡ticos y la superficie de calzada, garantizando la estabilidad del vehÃ­culo y proporcionando confort al conductor. Estos sistemas tienen un papel clave para mantener la trayectoria deseada y para absorber las irregularidades del asfalto. Sobre estos sistemas descansa una parte importante de la seguridad activa.
+Aunque muchos conductores no sean conscientes de ello, un amortiguador en malas condiciones puede tener peligrosas consecuencias, como por ejemplo:
+El vehÃ­culo pierde estabilidad, especialmente en curvas, â€¢ Se desgastan y averÃ­an con mayor frecuencia otros elecon viento lateral o al circular sobre una superficie mojada mentos del vehÃ­culo.
+(por ejemplo, aumenta el riesgo de aquaplaning).
+Disminuye el confort durante la conducciÃ³n, y la fatiga â€¢ Aumenta la distancia de frenado, sobre todo con pavimento aparece con mayor facilidad en el conductor. irregular o mojado. Si ademÃ¡s, el vehÃ­culo dispone de ABS, este sistema perderÃ¡ efectividad.
+Dada su relevancia para nuestra seguridad y la de los demÃ¡s, es muy importante aprender a supervisar estos sistemas y a identificar algunos posibles problemas que hagan recomendable la consulta a un mecÃ¡nico.  Los siguientes sÃ­ntomas podrÃ­an indicar que los amortiguadores se encuentran en mal estado:
+Al frenar, el vehÃ­culo se inclina hacia delante y se levanta de â€¢ Durante la marcha, se notan significativamente las alteraatrÃ¡s de forma excesiva. ciones del camino (por ejemplo, los baches) y el viento la-
+teral. â€¢ Al circular, el vehÃ­culo se balancea demasiado en carreteras en buen estado y se inclina excesivamente al tomar una â€¢ Los neumÃ¡ticos se desgastan irregularmente.
+curva.
+Circulando de noche, las luces oscilan de forma llamativa.â€¢ Al cargar un extremo lateral frontal, el vehÃ­culo rebota u oscila.
+Es muy importante revisar periÃ³dicamente el estado de los amortiguadores, siguiendo siempre las indicaciones del fabricante del vehÃ­culo, y sustituirlos cuando dejen de ser seguros.
+Los frenos
+Los frenos permiten reducir la velocidad del vehÃ­culo llegando incluso a su detenciÃ³n, por tanto, es importante efectuar una supervisiÃ³n y mantenimiento de ellos y saber cÃ³mo reaccionar ante una falla total, para evitar un accidente.
+Por otro lado usted debe aprender a usar los frenos del vehÃ­culo de forma adecuada ante situaciones peligrosas, como una frenada de emergencia. AdemÃ¡s, se debe tener en cuenta, que no se debe frenar de la misma forma con frenos convencionales, que con frenos antibloqueo, o ABS.
+Si en cierta situaciÃ³n usted se deja dominar por el pÃ¡nico y frena fuertemente, los frenos antibloqueo tienen la ventaja de impedir que las ruedas queden bloqueadas y le posibilitan continuar guiando el vehÃ­culo, en la medida que la velocidad no sea muy alta.
+Los vehÃ­culos tienen dos sistemas de frenos, que actÃºan independientemente uno del otro. El freno de servicio (pedal de freno) generalmente es hidrÃ¡ulico y actÃºa sobre las cuatro ruedas. Los vehÃ­culos antiguos poseen un sistema de circuito hidrÃ¡ulico, lo que hace que si la tuberÃ­a del freno se rompe en algÃºn lugar, todo el fluido desaparece, y con ello el efecto de frenado en todas las ruedas. Los vehÃ­culos modernos estÃ¡n equipados con sistemas de frenos de dos circuitos. AsÃ­, si se produce una falla en un circuito, se mantiene cierto efecto de frenado en el otro.
+El freno de estacionamiento (freno de mano) es mecÃ¡nico y generalmente actÃºa sobre las ruedas traseras. Muchos automÃ³viles poseen un sistema de servofrenos, que aumenta considerablemente la fuerza de frenado.
+El servo funciona sÃ³lo con el motor en marcha. Por eso hay que tener cuidado al ser remolcado o si el motor se detiene en una bajada.
+Controle
+El nivel del lÃ­quido de frenos periÃ³dicamente, segÃºn las indicaciones del fabricante.  Ã‰ste no se consume y si disminuye es porque hay algÃºn defecto mecÃ¡nico. AdemÃ¡s, si el nivel es bajo puede causar un accidente.
+Que la carrera del pedal de freno no sea demasiado larga. Lo aceptable es que usted pueda presionar el pedal hasta mÃ¡s arriba de la mitad de su distancia al piso.
+Que la posiciÃ³n del pedal no descienda cuando lo tiene fuertemente presionado. Si ello sucede, puede haber fugas.
+Que el pedal se sienta rÃ­gido y no elÃ¡stico. Si el pedal cede en su punto de presiÃ³n, probablemente haya entrado aire al sistema.
+Que las luces de freno funcionen.
+Que el freno de mano funcione correctamente. Este debe mantener el vehÃ­culo quieto en una pendiente o impedir que se pueda poner en marcha con el freno puesto.
+Que los frenos actÃºen en forma pareja sobre las cuatro ruedas. Si estÃ¡n mal ajustados, en una frenada brusca, el efecto irregular puede hacer que el vehÃ­culo se desvÃ­e hacia un costado.
+A temperaturas bajo cero es conveniente hacer pruebas de frenado a baja velocidad. Si circula por una calle inundada, o si ha lavado el vehÃ­culo recientemente debe eliminar, tambiÃ©n frenando, la eventual humedad en los tambores, especialmente si el vehÃ­culo ha estado estacionado.
+Recomendaciones para evitar fallas en los frenos
+Si bien algunas de las verificaciones recomendadas puede efectuarlas usted mismo, en otros casos deberÃ¡ contar con la ayuda de un mecÃ¡nico.
+Revisar posibles grietas en las mangueras por las que circula el lÃ­quido de frenos, vigilando que no existan manchas en el suelo por fugas.
+Cambiar todo el lÃ­quido de frenos en los plazos indicados por el fabricante del vehÃ­culo.
+Revisar periÃ³dicamente el estado de discos y pastillas de freno y estar atento ante ruidos producidos por su uso.
+Una maniobra que se debe conocer es cÃ³mo efectuar una frenada de emergencia, esto es, la detenciÃ³n completa del vehÃ­culo lo mÃ¡s rÃ¡pido posible, con seguridad.
+Uno de los mayores riesgos ante una frenada brusca es que las ruedas del vehÃ­culo se bloqueen y se deslicen sobre el pavimento. Cuando esto ocurre la distancia de frenado aumentarÃ¡ notablemente. AdemÃ¡s, en estas condiciones es imposible controlar la direcciÃ³n del vehÃ­culo, por lo que hay una gran probabilidad de que no se pueda evitar el obstÃ¡culo.
+El ABS (sistema de frenado antibloqueo) detecta el instante en que las ruedas se bloquean y reduce ligeramente la presiÃ³n sobre los frenos, mientras se mantiene presionado a fondo el pedal de freno. Permite que las ruedas sigan girando y que el conductor mantenga el control sobre la direcciÃ³n del vehÃ­culo. Si el ABS llegase a fallar, los frenos seguirÃ¡n funcionando.
+Se debe tener en cuenta que si un vehÃ­culo tiene incorporado este sistema, la distancia de frenado, para el caso de una frenada de emergencia, podrÃ­a aumentar con respecto a la distancia sin ABS.
+Los neumÃ¡ticos
+Los neumÃ¡ticos son el Ãºnico punto de apoyo del vehÃ­culo con la calzada. El agarre de los mismos aporta la seguridad necesaria bajo cualquier condiciÃ³n meteorolÃ³gica, incluso en situaciones difÃ­ciles.
+Para que los neumÃ¡ticos cumplan bien sus funciones de frenado, agarre y direccionalidad, los dibujos o surcos de sus bandas de rodamiento deben tener una profundidad aconsejable mÃ­nima de 3 mm. Cuando la profundidad de tales dibujos es muy baja (inferior a 1,6 mm) empeora la fricciÃ³n con el pavimento mojado, aumentando el riesgo de que se pierda el contacto con el pavimento a causa de la capa de agua que se forma delante de los neumÃ¡ticos. AcostÃºmbrese a revisar periÃ³dicamente sus neumÃ¡ticos y a constatar que sus detectores de desgaste de la profundidad de los surcos no le indiquen que Ã©sta es inferior a 1,6 mm.
+De los distintos elementos de un vehÃ­culo, los neumÃ¡ticos son los que requieren mayor revisiÃ³n de parte del conductor.
+Revise tambiÃ©n regularmente la presiÃ³n del aire en ellos. Un desgaste irregular puede deberse a problemas de alineamiento o de amortiguaciÃ³n, o a que ha estado conduciendo con una presiÃ³n de aire inadecuada.  Debe mantener los neumÃ¡ticos a  la presiÃ³n indicada por el fabricante para evitar que el automÃ³vil patine.
+
+Un desgaste notorio en la zona central de la banda de rodamiento significa que los neumÃ¡ticos se han usado con exceso de aire, mientras que un desgaste sÃ³lo en los extremos de la banda indica que se han usado con menor presiÃ³n de aire que la recomendada.
+Una presiÃ³n de aire demasiado baja en una o en las dos ruedas traseras puede aumentar significativamente la tendencia al giro. Con una baja presiÃ³n de aire en las ruedas delanteras la direcciÃ³n del vehÃ­culo es mÃ¡s pesada, y por ende el vehÃ­culo es mÃ¡s pesado de manejar. Una baja presiÃ³n de aire en una rueda delantera hace que el vehÃ­culo tienda a torcer hacia ese lado.
+Cuando la presiÃ³n de los neumÃ¡ticos es superior a la indicada por el fabricante se pierde la adherencia de los neumÃ¡ticos.
+Siempre los mejores neumÃ¡ticos deben ir atrÃ¡s, indistintamente de la ubicaciÃ³n de las ruedas de tracciÃ³n, para asegurar la mejor estabilidad.
+Reducir la presiÃ³n de los neumÃ¡ticos por debajo de la indicada por el fabricante a causa de la llegada del invierno, disminuye la vida Ãºtil de Ã©stos.
+Otras recomendaciones
+Controle la presiÃ³n de los neumÃ¡ticos cuando Ã©stos estÃ©n frÃ­os y respete las recomendaciones del fabricante. Si la presiÃ³n se ajusta cuando los neumÃ¡ticos estÃ¡n calientes, se tendrÃ¡ una presiÃ³n inferior a la adecuada. Una presiÃ³n inadecuada contribuye al riesgo de patinaje.
+Inspeccione tambiÃ©n periÃ³dicamente la banda de rodadura. Ã‰sta no debe tener cortes profundos ni grietas.
+Circule a una velocidad moderada, eso alarga la vida de los neumÃ¡ticos.
+Tenga en cuenta que situaciones como circular con carga, o por un pavimento en mal estado o un clima caluroso, pueden acelerar el desgaste de los neumÃ¡ticos.
+Si detecta algo anormal en los neumÃ¡ticos o en el comportamiento del vehÃ­culo (como vibraciones al circular, por ejemplo), es bueno buscar asesorÃ­a de un profesional. PodrÃ­a haber un problema de desbalanceo.
+Los neumÃ¡ticos deben ser cambiados al menos cada 5 aÃ±os. Aunque tengan poco uso y su dibujo estÃ© bien, el material envejece y pierden sus propiedades para rodar con seguridad. Es recomendable que acuda a un profesional para que lo asesore en el cambio de neumÃ¡ticos.
+Si sube escalones o veredas con su vehÃ­culo, pueden producirse deformaciones en las llantas y cortes o roturas en los neumÃ¡ticos.
+Aumente levemente la presiÃ³n de los neumÃ¡ticos cuando lleve una carga muy pesada.
+Cuando deje la rueda de repuesto en su vehÃ­culo, asegÃºrese que Ã©sta se encuentre con la presiÃ³n mÃ¡s alta recomendada por el fabricante.
+Cuide que los neumÃ¡ticos se encuentren correctamente balanceados.
+IMPORTANTE:
+Si al ir conduciendo se revienta un neumÃ¡tico trasero de su vehÃ­culo, usted debe girar el volante hacia el lado en que se desvÃ­a la cola del vehÃ­culo.
+Si de lo contrario se revienta un neumÃ¡tico delantero, usted debe frenar de forma suave sosteniendo el volante firmemente.
+Las luces
+Todos los vehÃ­culos deben estar provistos de focos y luces exteriores para poder ver y ser visto por los demÃ¡s usuarios cuando se conduce en la oscuridad o cuando la visibilidad se encuentra reducida, asÃ­ como para poder advertir al resto determinadas situaciones o la intenciÃ³n de realizar algunas maniobras.
+AsÃ­, los automÃ³viles y, en general, los vehÃ­culos motorizados de 4 o mÃ¡s ruedas, deben poseer los siguientes focos y luces exteriores:
+Parte delantera: Dos focos que proyecten luces altas y bajas, dos luces de estacionamiento y dos luces destellantes de viraje.
+Parte trasera: Dos luces de estacionamiento, dos luces destellantes de viraje, dos luces de retroceso, dos luces rojas fijas, dos luces de freno y una luz que ilumine la placa patente del vehÃ­culo.
+Adicionalmente, debe contar con una tercera luz de freno ubicada al centro de la luneta trasera de los automÃ³viles, jeeps, furgones, station wagon, camionetas y vehÃ­culos de transporte de escolares.
+AsegÃºrese de que sus luces estÃ©n limpias, que funcionen y que sus focos de luces altas y bajas estÃ©n bien ajustados. Un mal ajuste puede encandilar a los demÃ¡s usuarios de la vÃ­a y causar un accidente.
+Usted puede controlar que sus luces bajas no cieguen, para ello:
+Estacione su vehÃ­culo en un lugar plano y a unos 10 m de una pared o algo similar.
+Encienda sus luces bajas y luego verifique que el alto de la luz proyectada en la pared sea inferior a la altura de los faros respecto del nivel del suelo.
+Luces neblineras
+Algunos vehÃ­culos, ademÃ¡s de contar con las luces antes seÃ±aladas que son obligatorias, estÃ¡n provistos tambiÃ©n de luces neblineras. Ã‰stas pueden usarse sÃ³lo cuando la visibilidad se encuentre considerablemente reducida, ya sea a consecuencia de la niebla o de una lluvia torrencial, y deben apagarse tan pronto mejore la visibilidad.
+Luces de advertencia de peligro
+Las luces intermitentes de advertencia de peligro sÃ³lo deben utilizarse cuando el vehÃ­culo se encuentre detenido a consecuencia de una falla o averÃ­a, para avisar que temporalmente se estÃ¡ obstruyendo la circulaciÃ³n, asÃ­ como tambiÃ©n para advertir a los conductores, que vienen detrÃ¡s suyo, de un peligro u obstrucciÃ³n que haya mÃ¡s adelante. Deben usarse sÃ³lo por el tiempo que sea necesario para que los demÃ¡s noten su advertencia, nunca como una excusa para un estacionamiento peligroso o ilegal.
+Los espejos
+Los espejos permiten al conductor ver el trÃ¡fico que circula detrÃ¡s de Ã©l y a la derecha e izquierda del vehÃ­culo. La mayorÃ­a de los espejos laterales son convexos, por lo que las imÃ¡genes se visualizan mÃ¡s lejanas de lo que estÃ¡n en la realidad.
+Tenga presente que aun cuando sus espejos estÃ©n muy bien regulados, al conducir siempre existirÃ¡ un espacio detrÃ¡s suyo sobre el cual no tendrÃ¡ visiÃ³n. Son los denominados Ã¡ngulos muertos o puntos ciegos.
+Antes de conducir
+Para conducir su vehÃ­culo en forma segura serÃ¡ necesario que usted efectÃºe algunos sencillos controles y revise periÃ³dicamente:
+Verifique que:
+Tiene buena visibilidad a travÃ©s del parabrisas delantero, luneta trasera y ventanas laterales. Si no es asÃ­, active el ventilador, ajuste las boquillas del aire y encienda el desempaÃ±ador de la luneta trasera.
+Ha ajustado los espejos para tener buena visibilidad hacia atrÃ¡s y hacia los lados. Usted debe ver lo mÃ¡s posible de la calzada y de los vehÃ­culos que vienen detrÃ¡s.
+Las puertas estÃ©n cerradas. Si lleva niÃ±os, asegÃºrese de que vayan bien sujetos y que no puedan abrir las puertas desde el interior.
+Lleva los dispositivos reflectantes para casos de emergencia, extintor de incendio, rueda de repuesto y herramientas necesarias para su cambio.
+No lleva algÃºn objeto suelto en el vehÃ­culo, que pueda lesionar a alguien en caso de una frenada brusca.
+Su calzado le permite un adecuado control de los pedales.
+Justo antes de poner su vehÃ­culo en movimiento mire a su alrededor y chequee sus puntos ciegos.
+La energÃ­a y las leyes fÃ­sicas
+La energÃ­a del movimiento
+Un vehÃ­culo que se aproxima a una curva tiende a continuar su desplazamiento en lÃ­nea recta. Moviendo el volante del automÃ³vil usted lo obliga a desviarse de la trayectoria recta que seguirÃ­a a causa de la fuerza de inercia, pero si conduce a una velocidad demasiado alta la fricciÃ³n puede no ser suficiente para mantener al vehÃ­culo en la carretera.
+En la fotografÃ­a puede apreciarse la huella de frenado, que indica que el conductor frenÃ³ las ruedas hasta bloquearlas. AsÃ­, el vehÃ­culo no obedeciÃ³ al movimiento del volante, sino que continuÃ³ su trayectoria recta hacia adelante.
+Al aumentar la velocidad al doble, la energÃ­a del movimiento aumenta 4 veces, lo que hay que tener presente, por ejemplo, al acercarse a una curva, ya que costarÃ¡ mÃ¡s mantener la direcciÃ³n.
+Siempre es muy importante que usted trate de prever el estado del camino con anticipaciÃ³n, que estime bien el radio de una curva y que estÃ© atento a las sorpresas que pueda encontrar, como hojas caÃ­das, derrames de combustible o alguna otra cosa que pueda hacer que la carretera estÃ© resbaladiza. Reduzca la velocidad con tiempo antes de una curva y acelere suavemente a la salida de la misma.
+La magnitud de la fuerza centrÃ­fuga (o fuerza lateral que en una curva tiende a sacar al vehÃ­culo de la carretera) depende directamente de la velocidad y de lo cerrada que sea la curva.
+La longitud de la distancia de reacciÃ³n depende del tiempo de reacciÃ³n del conductor y de la velocidad del vehÃ­culo. Un tiempo normal de reacciÃ³n es un segundo. Un vehÃ­culo que circula a 36 km/h recorre 10 metros en un segundo, 20 metros si lo hace a 72 km/h, etc.
+Los principiantes, debido a su falta de experiencia suelen dudar, teniendo, en consecuencia, mayores distancias de reacciÃ³n.
+
+Usted puede estimar aproximadamente la distancia de reacciÃ³n, multiplicando por tres la primera cifra de la velocidad.
+La longitud de la distancia de frenado depende de la velocidad, del estado de la carretera, de la pendiente, del estado de los frenos y neumÃ¡ticos, y de la forma de frenar.
+La distancia de frenado crece con el cuadrado del aumento de la velocidad. AsÃ­, si usted duplica la velocidad, la distancia de frenado aumenta cuatro veces; si la triplica, la distancia de frenado aumenta 9 veces, etc.
+En cuanto a la forma de frenar, hay varias maneras. El conductor que planifica su conducciÃ³n disminuyendo a tiempo la presiÃ³n sobre el acelerador y reduciendo su velocidad, ahorra frenos y aumenta su seguridad.
+
+En situaciones inesperadas es necesario saber frenar correctamente. Ya se ha seÃ±alado que las ruedas atascadas impiden guiar el vehÃ­culo. Por ello, al comenzar a frenar se debe presionar el freno con la mayor fuerza posible. Si el vehÃ­culo no cuenta con frenos ABS y se bloquean las ruedas, hay que reducir en seguida la presiÃ³n sobre el pedal de freno soltÃ¡ndolo.
+
+La fuerza de gravedad
+Si usted ha andado en bicicleta y ha tratado de frenar al ir cuesta abajo en una pendiente muy pronunciada, es probable que haya experimentado que existen fuerzas que pueden provocarle dificultades. Ese mismo fenÃ³meno se presenta cuando conduce un vehÃ­culo motorizado. Por ello, cuando vea seÃ±ales que le adviertan sobre pendientes pronunciadas, tÃ³mese tiempo para bajarlas. A veces, es necesario conducir en una marcha baja para que el motor vaya frenando y no se calienten los frenos.
+Recuerde que al desenganchar el motor, usted pierde el dominio del vehÃ­culo.
+CaracterÃ­sticas de los vehÃ­culos y su influencia en la conducciÃ³n
+A pesar de que todos los automÃ³viles se parecen mucho, en la prÃ¡ctica tienen diferencias que hay que tener presente al conducirlos. Por ello, antes de sentarse al volante de un auto desconocido, hÃ¡gase estas preguntas: Â¿Tiene tracciÃ³n delantera, trasera o en las cuatro ruedas? Â¿EstÃ¡ dotado de neumÃ¡ticos que ofrezcan seguridad?
+Un auto con motor delantero normalmente es mÃ¡s pesado en su parte delantera, y tiene entonces una tendencia a girar menos. Si usted le coloca una carga pesada en su parte trasera, tenderÃ¡ a girar mÃ¡s de lo esperado y, al perder la fricciÃ³n con el pavimento, darÃ¡ un giro de 180Âº y continuarÃ¡ marchando con la parte trasera hacia delante. Esto es importante saberlo para comprender los riesgos que implica un desplazamiento del centro de gravedad.
+Si conduce un vehÃ­culo con su centro de gravedad en la parte delantera, Ã©ste tiende a seguir en lÃ­nea recta al tomar una curva; si pierde la fricciÃ³n continuarÃ¡ en la direcciÃ³n del movimiento.
+Intente lanzar una flecha con la punta hacia atrÃ¡s y verÃ¡ que la flecha se da vuelta en el aire, quedando con la punta adelante. Esto sucede porque la parte mÃ¡s pesada es la que tiene la mayor energÃ­a de movimiento y se esfuerza por llegar mÃ¡s rÃ¡pido al blanco.
+Lo mismo ocurre con un automÃ³vil que tiene el centro de gravedad en su parte posterior. Cuando usted toma una curva, el vehÃ­culo gira mÃ¡s de lo que usted ha pensado, y si pierde la fricciÃ³n con el pavimento, darÃ¡ un coletazo (o derrape), un trompo y continuarÃ¡ en la direcciÃ³n del movimiento, pero con la parte trasera hacia adelante.
+Las ruedas de tracciÃ³n tienen gran importancia para el comportamiento del vehÃ­culo.
+Un vehÃ­culo con tracciÃ³n delantera comienza a resbalar sobre las ruedas delanteras si el efecto de aceleraciÃ³n es mayor que el que permite la fricciÃ³n, lo que puede llevar a que el vehÃ­culo no gire cuando usted mueva el volante, y que intente seguir en la direcciÃ³n del movimiento. Si esto sucede, deje de acelerar y retome su trayectoria.
+Similarmente, si las ruedas de tracciÃ³n trasera pierden fricciÃ³n pueden producirse uno o varios coletazos. En estas circunstancias, continÃºe acelerando y gire la direcciÃ³n hacia la trayectoria.
+La tracciÃ³n en las cuatro ruedas proporciona una posibilidad de conducciÃ³n considerablemente mejor en pavimentos difÃ­ciles. En lo demÃ¡s, estos vehÃ­culos con tracciÃ³n en las cuatro ruedas se comportan igual que el resto.
+Otro factor que puede influir en que un vehÃ­culo gire mÃ¡s o menos de lo esperado es la presiÃ³n de aire en sus neumÃ¡ticos.
+Elementos de seguridad pasiva
+Los neumÃ¡ticos, los frenos, las luces, entre otros, son elementos denominados â€œde seguridad activaâ€, ya que sirven para prevenir la ocurrencia de un accidente. Existen tambiÃ©n otro tipo de elementos, conocidos como â€œde seguridad pasivaâ€, los cuales no previenen la ocurrencia de un accidente, pero sÃ­ contribuyen a aminorar las consecuencias de los mismos.
+El cinturÃ³n de seguridad
+Un choque a 50 km/h sin llevar puesto el cinturÃ³n de seguridad, es como tirarse a la calle desde un cuarto piso sin red de seguridad. Si la velocidad es de 70km/h, ello equivale a lanzarse desde un sÃ©ptimo piso. El cinturÃ³n de seguridad es su seguro de vida, ya que disminuye las muertes producidas por accidentes de trÃ¡nsito.
+AdemÃ¡s de salvar vidas y disminuir las posibilidades de sufrir lesiones en un accidente, los cinturones de seguridad brindan mayor comodidad, mejor control y contribuyen a reducir el cansancio.
+
+Todos quienes viajan en el automÃ³vil deben ir bien sujetos. Sin embargo, nunca permita que dos personas viajen sujetas con un mismo cinturÃ³n.
+Si su vehÃ­culo dispone de cinturones de seguridad en el asiento trasero, es importante que quienes van sentados atrÃ¡s tambiÃ©n los usen, aun cuando ello sea obligatorio sÃ³lo si el automÃ³vil es de aÃ±o de fabricaciÃ³n 2002 o posterior.
+El pasajero que se ve impulsado hacia adelante desde el asiento trasero no sÃ³lo se lesiona a sÃ­ mismo, sino que tambiÃ©n puede lesionar al conductor o a quien viaje en el asiento delantero.
+El cinturÃ³n de seguridad requiere ser utilizado de forma correcta, de no ser asÃ­, este dispositivo no protegerÃ¡ de forma adecuada, y, ademÃ¡s, puede ocasionar graves lesiones.
+Uso correcto del cinturÃ³n de seguridad
+Fuente: DGT/INTRAS.
+DespuÃ©s de sufrir un accidente, el cinturÃ³n podrÃ­a estar daÃ±ado y su uso ya no ser seguro. En este caso deberÃ¡ reemplazarlo por uno nuevo.
+Recomendaciones importantes para el uso adecuado del cinturÃ³n de seguridad
+â€¢ Efecto Submarino:
+Es uno de los riesgos producidos por el mal uso del cinturÃ³n o del asiento del vehÃ­culo, y se produce cuando el conductor, durante el accidente, se desliza por debajo de la banda abdominal.
+Para evitar el efecto submarino:
+PÃ³ngase el cinturÃ³n de forma adecuada; si pone la banda abdominal de forma incorrecta, es mÃ¡s probable que se deslice por debajo de ella.
+AsegÃºrese de que el cinturÃ³n estÃ© bien tensado. El efecto submarino aparece con mayor facilidad si el cinturÃ³n no estÃ¡ bien ajustado al cuerpo. Por esta razÃ³n tambiÃ©n evite conducir con ropa de mucho volumen (como un abrigo, por ejemplo).
+No ponga toallas o almohadones (tanto sobre el asiento como detrÃ¡s de la espalda), o algunas fundas especiales. Todos estos elementos pueden favorecer el deslizamiento del conductor, anulando las caracterÃ­sticas del asiento enfocadas a evitar el efecto submarino.
+Siempre debe conducir en una postura adecuada; no recline el asiento en exceso, ya que no se debe conducir â€œsemi-acostadoâ€. Recuerde siempre que una postura adecuada al volante facilita el buen funcionamiento del cinturÃ³n de seguridad.
+â€¢ Excusas y mitos con respecto al uso del cinturÃ³n de seguridad
+Los conductores reticentes al uso del cinturÃ³n de seguridad dan excusas poco realistas respecto de la eficacia de este dispositivo, como los seÃ±alados a continuaciÃ³n:
+â€œNo voy a tener accidentes, por lo tanto, no necesito usar el cinturÃ³n de seguridadâ€
+Nadie espera sufrir un accidente de trÃ¡nsito, pero el hecho de que no hayamos sufrido ningÃºn accidente no quiere decir que nunca vayamos a sufrir uno.
+â€œSobrevivir a un accidente de trÃ¡nsito depende de la suerte o de la casualidad, por lo que el cinturÃ³n no es de gran ayudaâ€
+El estudio de miles de accidentes demuestra que los conductores que no usan el cinturÃ³n, tienen el doble de probabilidad de morir en ellos.
+â€œEn caso de tener un accidente, es mucho mÃ¡s seguro salir eyectado del vehÃ­culoâ€
+Si sufrimos un accidente y por no tener puesto el cinturÃ³n de seguridad salimos eyectados del vehÃ­culo, la probabilidad de sufrir una lesiÃ³n medular aumenta en un 1.300 %, mientras que la probabilidad de resultar muerto aumenta en un 300%, lo que demuestra claramente que es mucho mÃ¡s seguro quedar dentro del vehÃ­culo.
+â€œEn muchos accidentes, los ocupantes quedaron atrapados dentro del vehÃ­culo por el cinturÃ³n de seguridad y fallecieron por no poder salir a tiempoâ€
+Los estudios y estadÃ­sticas revelan que sÃ³lo en un accidente por millÃ³n, llevar el cinturÃ³n de seguridad puede ser negativo. La experiencia demuestra que, por el contrario, en la mayorÃ­a de los accidentes que se producen a diario el cinturÃ³n puede salvar la vida de los ocupantes del vehÃ­culo o evitarles graves lesiones.
+â€œEl cinturÃ³n de seguridad no es necesario cuando se conduce por vÃ­as urbanas, donde la velocidad de circulaciÃ³n es bajaâ€
+Cerca del 50% de los accidentes con vÃ­ctimas, ocurren en zona urbana. Por ejemplo, un golpe frontal a tan sÃ³lo 30 Ã³ 40 km/h podrÃ­a resultar mortal con facilidad si la cabeza del conductor impacta contra el parabrisas o contra el volante, lo que suele ocurrir con frecuencia.
+â€œSi el recorrido es corto, no hace falta ponerse el cinturÃ³n de seguridadâ€
+Ya hemos seÃ±alado que sufrir un accidente siempre es posible, por lo que es importante utilizar el cinturÃ³n de seguridad en todos los desplazamientos. AdemÃ¡s, la mayorÃ­a de los accidentes con vÃ­ctimas se producen a pocos kilÃ³metros de sus casas.
+â€œMi vehÃ­culo ya tiene muchos sistemas de seguridad, por lo que el cinturÃ³n no es tan importanteâ€
+NingÃºn dispositivo de seguridad del vehÃ­culo es capaz de sustituir al cinturÃ³n, inclusive todos ellos estÃ¡n diseÃ±ados para funcionar de una forma complementaria al cinturÃ³n. Por ejemplo, si se activa el airbag en caso de una colisiÃ³n frontal y usted no lleva puesto su cinturÃ³n de seguridad, puede sufrir graves lesiones cuando se infle la bolsa de aire.
+â€œEl cinturÃ³n resulta incÃ³modoâ€
+En la medida en que usted use habitualmente su cinturÃ³n de seguridad, desaparecerÃ¡ esa incomodidad inicial que algunos conductores experimentan. Muchas personas con el tiempo llegan a sentirse incÃ³modas e inseguras, cuando no usan el cinturÃ³n de seguridad.
+â€œDurante el embarazo, no hay que utilizar el cinturÃ³n de seguridad, ya que resulta peligroso para el fetoâ€
+Las mujeres embarazadas tambiÃ©n estÃ¡n obligadas a ponerse el cinturÃ³n de seguridad, debido a que el riesgo de lesionar y perder el feto durante un accidente es mayor si no lo usan (por ejemplo, si ella golpea el vientre contra el volante).
+Fuente: DGT/INTRAS.
+â€œEn los asientos traseros no hace falta llevar el cinturÃ³n de seguridadâ€
+En un accidente, los ocupantes de asientos traseros que van sin cinturÃ³n de seguridad pueden salir eyectados, pudiendo golpear mortalmente a los demÃ¡s pasajeros o al conductor; el cinturÃ³n no sÃ³lo puede salvar la vida de los ocupantes de los asientos de atrÃ¡s, sino que evita que Ã©stos provoquen graves lesiones en los demÃ¡s ocupantes del vehÃ­culo.
+En un choque frontal, la probabilidad de que un ocupante de los asientos traseros que no ocupe cinturÃ³n golpee mortalmente a otro pasajero de los asientos de adelante puede ser hasta 8 veces mayor.
+Por lo anterior, antes de poner su vehÃ­culo en movimiento, ajuste sus espejos, y ajuste su asiento y respaldo, si es necesario â€“ al tomar el volante, sus brazos deben quedar ligeramente flexionados â€“ y pÃ³ngase siempre el cinturÃ³n de seguridad. AsegÃºrese que los demÃ¡s ocupantes de su vehÃ­culo tambiÃ©n se lo abrochen.
+El airbag
+El airbag es una bolsa de aire que se infla en apenas unas milÃ©simas de segundo al producirse el impacto, protegiendo a los ocupantes del vehÃ­culo por los siguientes motivos:
+Frena suavemente el movimiento de los ocupantes, evitando que las fuerzas de deceleraciÃ³n produzcan daÃ±os en ellos, especialmente en la cabeza (por ejemplo, reduce la probabilidad de ocurrencia de lesiones cervicales).
+Evita el impacto de los ocupantes contra algunos elementos del interior del vehÃ­culo: el volante, el tablero, el parabrisas o las ventanas.
+Protege la cara y los ojos de los fragmentos de cristal u otros elementos que pueden desprenderse, por ejemplo, del parabrisas.
+El airbag no es eficaz si no se utiliza junto con el cinturÃ³n de seguridad. Al producirse el accidente, la bolsa de aire se infla a una velocidad de hasta 300 km/h, por lo que, si el cinturÃ³n no retiene al conductor y el airbag impacta contra Ã©l antes de haber llegado a extenderse completamente, puede llegar a provocarle graves lesiones por la enorme fuerza del golpe.
+La eficacia del airbag frontal se basa en la combinaciÃ³n del uso del cinturÃ³n de seguridad, una buena posiciÃ³n de las manos frente al volante y la regulaciÃ³n del apoya cabezas al nivel de las orejas. Se ha estimado que el uso de airbag frontal en conjunto con el cinturÃ³n de seguridad, puede llegar a reducir un 20% la probabilidad de sufrir lesiones mortales.
+
+Fuente: www.todomecanica.com DespuÃ©s de un accidente, se deberÃ¡ cambiar el sistema de airbag aunque Ã©ste no se haya abierto. La pila de alimentaciÃ³n se deberÃ¡ cambiar de acuerdo con las recomendaciones del fabricante.
+Existen airbags de diferentes tipos: laterales, para la cabeza e inteligentes (que se activan ante distintos tipos de impacto), por lo que es recomendable que, a la hora de adquirir un vehÃ­culo nuevo, usted se informe sobre la existencia de airbags en Ã©l y sobre el funcionamiento de los mismos.
+
+Fuente: www.todomecanica.com
+La efectividad del airbag estÃ¡ asociada al uso del cinturÃ³n de seguridad. Este sistema sÃ³lo es eficiente si usted estÃ¡ sujeto con el cinturÃ³n de seguridad.
+Los apoya cabezas
+Los apoya cabezas sirven para prevenir lesiones cervicales cuando su vehÃ­culo es impactado por atrÃ¡s. Su posiciÃ³n debe ser ajustada a cada conductor detrÃ¡s de su cabeza.  Lamentablemente es habitual que los apoya cabezas sean ubicados en su posiciÃ³n mÃ¡s baja, reduciendo drÃ¡sticamente su efectividad, llegando incluso a ser contraproducentes. Usted debe regular todos los apoya cabezas del vehÃ­culo que se van a utilizar, tanto en los asientos delanteros como en los traseros.
+Cuando un vehÃ­culo sufre un impacto por atrÃ¡s es sometido a una aceleraciÃ³n hacia adelante, lo que provoca que el asiento empuje el cuerpo del ocupante tambiÃ©n hacia adelante. Si la cabeza de Ã©ste no se encuentra apoyada, oscila respecto del torso, lo que provoca un violento cambio de direcciÃ³n en el cuello, que toma forma de â€œsâ€ al principio y posteriormente se va hacia atrÃ¡s. Este movimiento se denomina efecto latigazo.
+Los apoya cabezas deben estar regulados de manera de maximizar su contribuciÃ³n a la seguridad de cada persona en caso de impacto posterior.
+
+Como consecuencia del latigazo cervical, suele producirse un esguince cervical, que es una lesiÃ³n muy peligrosa y mucho mÃ¡s frecuente de lo que pensamos. El esguince cervical puede afectar a diversas estructuras del cuello, como los mÃºsculos, las articulaciones o los ligamentos, y trae como consecuencia dolores musculares y de cabeza, una disminuciÃ³n de la movilidad del cuello, vÃ©rtigo o mareos, entre otras molestias, que con frecuencia podrÃ­an prolongarse algunos meses.
+En ocasiones las lesiones producidas por el latigazo cervical llegan a ser mucho mÃ¡s graves. Por ejemplo, si se daÃ±an las vÃ©rtebras cervicales, el conductor podrÃ­a llegar a sufrir algÃºn tipo de discapacidad irreversible (por ejemplo, una tetraplejia).
